@@ -1,0 +1,132 @@
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 44: 22357 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_mhd_f64 > $DATADIR/astro_mhd_f64.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 45: 22377 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_pt_f64 > $DATADIR/astro_pt_f64.gfc
+comp-time: 29.27 ms
+comp-time: 215.91 ms
+comp-time: 55.23 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 49: 22453 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/miranda3d > $DATADIR/miranda3d.gfc
+comp-time: 514.11 ms
+comp-time: 287.56 ms
+comp-time: 329.18 ms
+comp-time: 326.17 ms
+comp-time: 171.27 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 55: 22570 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 56: 22590 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+comp-time: 248.38 ms
+comp-time: 146.13 ms
+comp-time: 1083.02 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 44: 43098 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_mhd_f64 > $DATADIR/astro_mhd_f64.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 45: 43118 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_pt_f64 > $DATADIR/astro_pt_f64.gfc
+comp-time: 27.32 ms
+comp-time: 216.03 ms
+comp-time: 54.91 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 49: 43195 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/miranda3d > $DATADIR/miranda3d.gfc
+comp-time: 521.85 ms
+comp-time: 279.34 ms
+comp-time: 328.15 ms
+comp-time: 315.87 ms
+comp-time: 171.42 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 55: 43309 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 56: 43329 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+comp-time: 242.02 ms
+comp-time: 147.77 ms
+comp-time: 1093.11 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 44: 14341 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_mhd_f64 > $DATADIR/astro_mhd_f64.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 45: 14361 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_pt_f64 > $DATADIR/astro_pt_f64.gfc
+comp-time: 27.86 ms
+comp-time: 217.33 ms
+comp-time: 54.25 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 49: 14438 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/miranda3d > $DATADIR/miranda3d.gfc
+comp-time: 527.16 ms
+comp-time: 283.89 ms
+comp-time: 337.45 ms
+comp-time: 321.37 ms
+comp-time: 171.68 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 55: 14553 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 56: 14573 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+comp-time: 246.60 ms
+comp-time: 146.96 ms
+comp-time: 1084.96 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 44: 36983 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_mhd_f64 > $DATADIR/astro_mhd_f64.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 45: 37003 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_pt_f64 > $DATADIR/astro_pt_f64.gfc
+comp-time: 28.65 ms
+comp-time: 221.24 ms
+comp-time: 53.30 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 49: 37079 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/miranda3d > $DATADIR/miranda3d.gfc
+comp-time: 510.09 ms
+comp-time: 284.39 ms
+comp-time: 336.66 ms
+comp-time: 317.01 ms
+comp-time: 173.82 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 55: 37194 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 56: 37214 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+comp-time: 246.16 ms
+comp-time: 143.28 ms
+comp-time: 1103.57 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 44: 10698 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_mhd_f64 > $DATADIR/astro_mhd_f64.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 45: 10703 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_pt_f64 > $DATADIR/astro_pt_f64.gfc
+comp-time: 42.89 ms
+comp-time: 227.65 ms
+comp-time: 61.35 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 49: 10720 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/miranda3d > $DATADIR/miranda3d.gfc
+comp-time: 528.12 ms
+comp-time: 286.73 ms
+comp-time: 338.16 ms
+comp-time: 329.01 ms
+comp-time: 186.35 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 55: 10745 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 56: 10750 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+comp-time: 258.17 ms
+comp-time: 156.29 ms
+comp-time: 1102.31 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 44: 30483 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_mhd_f64 > $DATADIR/astro_mhd_f64.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 45: 30488 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/astro_pt_f64 > $DATADIR/astro_pt_f64.gfc
+comp-time: 27.57 ms
+comp-time: 212.11 ms
+comp-time: 59.74 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 49: 30505 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/miranda3d > $DATADIR/miranda3d.gfc
+comp-time: 514.61 ms
+comp-time: 276.98 ms
+comp-time: 326.78 ms
+comp-time: 324.68 ms
+comp-time: 173.52 ms
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 55: 30530 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+GFC: GFC_22.cu:656: int main(int, char**): Assertion `0 == fread(&dummy, 1, 1, stdin)' failed.
+batch_martin_compress.sh: line 56: 30535 Aborted                 (core dumped) ../GFC/GFC 28 18 2 < $DATADIR/tpch_lineitem_f32 > $DATADIR/tpch_lineitem_f32.gfc
+comp-time: 243.85 ms
+comp-time: 148.48 ms
+comp-time: 1083.44 ms
+comp-time: 584.35 ms
+comp-time: 580.03 ms
+comp-time: 572.10 ms
+comp-time: 572.96 ms
+comp-time: 572.64 ms
+comp-time: 570.62 ms

@@ -1,0 +1,112 @@
+19.29	comp-speed: 28.434 GB/s	comp-ratio: 8.346
+23.67	comp-speed: 28.358 GB/s	comp-ratio: 1.259
+0.42	comp-speed: 27.490 GB/s	comp-ratio: 1.347
+3.29	comp-speed: 30.376 GB/s	comp-ratio: 1.540
+0.79	comp-speed: 28.686 GB/s	comp-ratio: 0.971
+111.17	comp-speed: 38.634 GB/s	comp-ratio: 1.604
+9.40	comp-speed: 28.345 GB/s	comp-ratio: 1.145
+5.15	comp-speed: 27.520 GB/s	comp-ratio: 1.185
+5.90	comp-speed: 27.025 GB/s	comp-ratio: 1.108
+3.11	comp-speed: 30.296 GB/s	comp-ratio: 1.532
+5.41	comp-speed: 30.504 GB/s	comp-ratio: 1.343
+30.06	comp-speed: 31.925 GB/s	comp-ratio: 1.012
+4.37	comp-speed: 27.485 GB/s	comp-ratio: 1.122
+10.05	comp-speed: 30.589 GB/s	comp-ratio: 1.512
+2.18	comp-speed: 30.715 GB/s	comp-ratio: 1.212
+17.72	comp-speed: 30.299 GB/s	comp-ratio: 1.517
+19.27	comp-speed: 28.456 GB/s	comp-ratio: 8.346
+23.64	comp-speed: 28.393 GB/s	comp-ratio: 1.259
+0.42	comp-speed: 27.485 GB/s	comp-ratio: 1.347
+3.31	comp-speed: 30.248 GB/s	comp-ratio: 1.540
+0.78	comp-speed: 29.094 GB/s	comp-ratio: 0.971
+111.75	comp-speed: 38.432 GB/s	comp-ratio: 1.604
+9.40	comp-speed: 28.333 GB/s	comp-ratio: 1.145
+5.16	comp-speed: 27.488 GB/s	comp-ratio: 1.185
+5.90	comp-speed: 27.030 GB/s	comp-ratio: 1.108
+3.11	comp-speed: 30.354 GB/s	comp-ratio: 1.532
+5.43	comp-speed: 30.409 GB/s	comp-ratio: 1.343
+31.44	comp-speed: 30.529 GB/s	comp-ratio: 1.012
+4.36	comp-speed: 27.529 GB/s	comp-ratio: 1.122
+10.05	comp-speed: 30.595 GB/s	comp-ratio: 1.512
+2.18	comp-speed: 30.799 GB/s	comp-ratio: 1.212
+17.48	comp-speed: 30.712 GB/s	comp-ratio: 1.517
+19.28	comp-speed: 28.447 GB/s	comp-ratio: 8.346
+23.64	comp-speed: 28.388 GB/s	comp-ratio: 1.259
+0.42	comp-speed: 27.553 GB/s	comp-ratio: 1.347
+3.29	comp-speed: 30.377 GB/s	comp-ratio: 1.540
+0.78	comp-speed: 29.014 GB/s	comp-ratio: 0.971
+130.04	comp-speed: 33.029 GB/s	comp-ratio: 1.604
+9.40	comp-speed: 28.336 GB/s	comp-ratio: 1.145
+5.16	comp-speed: 27.473 GB/s	comp-ratio: 1.185
+5.87	comp-speed: 27.154 GB/s	comp-ratio: 1.108
+3.11	comp-speed: 30.325 GB/s	comp-ratio: 1.532
+5.43	comp-speed: 30.404 GB/s	comp-ratio: 1.343
+31.45	comp-speed: 30.514 GB/s	comp-ratio: 1.012
+4.35	comp-speed: 27.574 GB/s	comp-ratio: 1.122
+10.04	comp-speed: 30.626 GB/s	comp-ratio: 1.512
+2.19	comp-speed: 30.685 GB/s	comp-ratio: 1.212
+17.54	comp-speed: 30.601 GB/s	comp-ratio: 1.517
+19.29	comp-speed: 28.438 GB/s	comp-ratio: 8.346
+23.66	comp-speed: 28.363 GB/s	comp-ratio: 1.259
+0.42	comp-speed: 28.007 GB/s	comp-ratio: 1.347
+3.30	comp-speed: 30.321 GB/s	comp-ratio: 1.540
+0.78	comp-speed: 28.984 GB/s	comp-ratio: 0.971
+125.89	comp-speed: 34.116 GB/s	comp-ratio: 1.604
+9.39	comp-speed: 28.364 GB/s	comp-ratio: 1.145
+5.16	comp-speed: 27.488 GB/s	comp-ratio: 1.185
+5.91	comp-speed: 27.002 GB/s	comp-ratio: 1.108
+3.12	comp-speed: 30.208 GB/s	comp-ratio: 1.532
+5.42	comp-speed: 30.426 GB/s	comp-ratio: 1.343
+31.46	comp-speed: 30.505 GB/s	comp-ratio: 1.012
+4.35	comp-speed: 27.579 GB/s	comp-ratio: 1.122
+10.05	comp-speed: 30.595 GB/s	comp-ratio: 1.512
+2.18	comp-speed: 30.770 GB/s	comp-ratio: 1.212
+17.72	comp-speed: 30.291 GB/s	comp-ratio: 1.517
+19.29	comp-speed: 28.438 GB/s	comp-ratio: 8.346
+23.63	comp-speed: 28.395 GB/s	comp-ratio: 1.259
+0.42	comp-speed: 27.673 GB/s	comp-ratio: 1.347
+3.29	comp-speed: 30.377 GB/s	comp-ratio: 1.540
+0.80	comp-speed: 28.614 GB/s	comp-ratio: 0.971
+113.55	comp-speed: 37.824 GB/s	comp-ratio: 1.604
+9.41	comp-speed: 28.322 GB/s	comp-ratio: 1.145
+5.16	comp-speed: 27.467 GB/s	comp-ratio: 1.185
+5.91	comp-speed: 27.008 GB/s	comp-ratio: 1.108
+3.11	comp-speed: 30.296 GB/s	comp-ratio: 1.532
+5.42	comp-speed: 30.442 GB/s	comp-ratio: 1.343
+31.44	comp-speed: 30.524 GB/s	comp-ratio: 1.012
+4.35	comp-speed: 27.580 GB/s	comp-ratio: 1.122
+10.05	comp-speed: 30.580 GB/s	comp-ratio: 1.512
+2.19	comp-speed: 30.686 GB/s	comp-ratio: 1.212
+17.58	comp-speed: 30.539 GB/s	comp-ratio: 1.517
+19.31	comp-speed: 28.406 GB/s	comp-ratio: 8.346
+23.64	comp-speed: 28.382 GB/s	comp-ratio: 1.259
+0.42	comp-speed: 27.817 GB/s	comp-ratio: 1.347
+3.29	comp-speed: 30.368 GB/s	comp-ratio: 1.540
+0.79	comp-speed: 28.977 GB/s	comp-ratio: 0.971
+125.96	comp-speed: 34.097 GB/s	comp-ratio: 1.604
+9.42	comp-speed: 28.273 GB/s	comp-ratio: 1.145
+5.17	comp-speed: 27.445 GB/s	comp-ratio: 1.185
+5.89	comp-speed: 27.103 GB/s	comp-ratio: 1.108
+3.10	comp-speed: 30.394 GB/s	comp-ratio: 1.532
+5.43	comp-speed: 30.404 GB/s	comp-ratio: 1.343
+31.46	comp-speed: 30.511 GB/s	comp-ratio: 1.012
+4.36	comp-speed: 27.511 GB/s	comp-ratio: 1.122
+10.06	comp-speed: 30.571 GB/s	comp-ratio: 1.512
+2.19	comp-speed: 30.700 GB/s	comp-ratio: 1.212
+17.47	comp-speed: 30.735 GB/s	comp-ratio: 1.517
+comp-time: 19.31 ms	comp-speed: 28.410 GB/s	comp-ratio: 8.346
+comp-time: 23.63 ms	comp-speed: 28.395 GB/s	comp-ratio: 1.259
+comp-time: 0.41 ms	comp-speed: 28.013 GB/s	comp-ratio: 1.347
+comp-time: 3.30 ms	comp-speed: 30.331 GB/s	comp-ratio: 1.540
+comp-time: 0.79 ms	comp-speed: 28.909 GB/s	comp-ratio: 0.971
+comp-time: 134.83 ms	comp-speed: 31.854 GB/s	comp-ratio: 1.604
+comp-time: 9.39 ms	comp-speed: 28.354 GB/s	comp-ratio: 1.145
+comp-time: 5.17 ms	comp-speed: 27.441 GB/s	comp-ratio: 1.185
+comp-time: 5.82 ms	comp-speed: 27.397 GB/s	comp-ratio: 1.108
+comp-time: 3.11 ms	comp-speed: 30.316 GB/s	comp-ratio: 1.532
+comp-time: 5.41 ms	comp-speed: 30.511 GB/s	comp-ratio: 1.343
+comp-time: 30.65 ms	comp-speed: 31.312 GB/s	comp-ratio: 1.012
+comp-time: 4.36 ms	comp-speed: 27.511 GB/s	comp-ratio: 1.122
+comp-time: 10.04 ms	comp-speed: 30.629 GB/s	comp-ratio: 1.512
+comp-time: 2.19 ms	comp-speed: 30.631 GB/s	comp-ratio: 1.212
+comp-time: 17.48 ms	comp-speed: 30.719 GB/s	comp-ratio: 1.517

@@ -1,0 +1,651 @@
+    1  exit
+    2  ls
+    3  mkdir code
+    4  mkdir data
+    5  cd code
+    6  ls
+    7  cat /etc/ssh/sshd_config 
+    8  cd ~/.ssh
+    9  ls -l
+   10  cat authorized_keys 
+   11  vi authorized_keys 
+   12  cat authorized_keys 
+   13  cd ~/code
+   14  cd GFC/
+   15  nvidia-smi 
+   16  python -V
+   17  nvcc -V
+   18  nvcc -O3 -arch=sm_75 GFC_22.cu -o GFC
+   19  ls -l
+   20  nvidia-s,
+   21  nvidia-smi 
+   22  vi ~/.bashrc
+   23  source ~/.bashrc
+   24  echo $EXECDIR 
+   25  ls $DATADIR 
+   26  ls
+   27  ../GFC/GFC 32 32 2 < $DATADIR/astro_mhd_f64 > $DATADIR/astro_mhd_f64.gfc
+   28  ../GFC/GFC 16 16 < $DATADIR/astro_mhd_f64 > $DATADIR/astro_mhd_f64.gfc
+   29  ../GFC/GFC 28 18 < $DATADIR/astro_mhd_f64 > $DATADIR/astro_mhd_f64.gfc
+   30  lscpu
+   31  nvcc -O3 -arch=sm_35 GFC_22.cu -o GFC
+   32  ../GFC/GFC 28 18 < $DATADIR/astro_mhd_f64 > $DATADIR/astro_mhd_f64.gfc
+   33  ls -l ../da
+   34  ls -l ../../data/
+   35  ../GFC/GFC < $DATADIR/astro_mhd_f64.gfc > $DATADIR/astro_mhd_f64.org
+   36  ../GFC/GFC 32 16 < $DATADIR/astro_mhd_f64 > $DATADIR/astro_mhd_f64.gfc
+   37  cd ../
+   38  mkdir MPC
+   39  cd MPC/
+   40  wget https://userweb.cs.txstate.edu/~burtscher/research/MPC/MPC_float_12.cu
+   41  wget https://userweb.cs.txstate.edu/~burtscher/research/MPC/MPC_double_12.cu
+   42  nvcc -O3 -arch=sm_75 MPC_float_12.cu -o MPC_float
+   43  nvcc -O3 -arch=sm_65 MPC_float_12.cu -o MPC_float
+   44  nvcc -O3 -arch=sm_60 MPC_float_12.cu -o MPC_float
+   45  nvcc -O3 -arch=sm_60 MPC_doouble_12.cu -o MPC_double
+   46  nvcc -O3 -arch=sm_60 MPC_double_12.cu -o MPC_double
+   47  ls -l
+   48  cd ../../data/
+   49  ls
+   50  vi ~/.ssh/authorized_keys 
+   51  ls
+   52  exit
+   53  ls
+   54  ls code/
+   55  cd code
+   56  ls
+   57  rm -r GFC/ MPC/
+   58  ls
+   59  cd ../data/
+   60  ls
+   61  ls -l
+   62  rm astro_mhd_f64.gfc astro_mhd_f64.org 
+   63  mv courtyard_night_4k.exr hdr_night
+   64  ls -l
+   65  cd ../
+   66  ls
+   67  mkdir software
+   68  free -g
+   69  nvidia-smi 
+   70  python -V
+   71  cd code/
+   72  ls
+   73  cat chameleon_setup2.sh 
+   74  bash chameleon_setup2.sh 
+   75  ls
+   76  cd ../
+   77  ls
+   78  ls data/
+   79  cd code/
+   80  ls code/
+   81  ls data/
+   82  ls software/
+   83  rm -r code data/
+   84  ls
+   85  mv software/ ../
+   86  cmake --version
+   87  clang --version
+   88  gcc --version
+   89  python -V
+   90  rustc --version
+   91  ls
+   92  cd ../software/
+   93  ls
+   94  go version
+   95  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+   96  source ~/.bashrc
+   97  rustup install 1.53.0
+   98  rustc --version
+   99  rustup show
+  100  wget https://go.dev/dl/go1.18.linux-amd64.tar.gz
+  101  ls ../code/
+  102  sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.19.1.linux-amd64.tar.gz
+  103  sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.18.1.linux-amd64.tar.gz
+  104  ls
+  105  rm go1.18.linux-amd64.tar.gz.1
+  106  sudo tar -C /usr/local -xzf ls go1.18.linux-amd64.tar.gz 
+  107  sudo tar -xzf ls go1.18.linux-amd64.tar.gz -C /usr/local
+  108  ls /usr/local/
+  109  sudo tar -xzf ls go1.18.linux-amd64.tar.gz
+  110  sudo tar -xzf go1.18.linux-amd64.tar.gz -C /usr/local
+  111  export PATH=$PATH:/usr/local/go/bin
+  112  vi ~/.bashrc
+  113  source ~/.bashrc
+  114  cd $EXECDIR
+  115  cd buff/database/
+  116  $EXEDIR/target/release/comp_profiler $DATADIR/astro_mhd_f64 buff-simd64 1000000000 1.15
+  117  $EXEDIR/buff/database/target/release/comp_profiler $DATADIR/astro_mhd_f64 buff-simd64 1000000000 1.15
+  118  cd ../../influxdb/
+  119  rustup default 1.53.0
+  120  make
+  121  ls
+  122  cd tsdb/engine/tsm1/
+  123  ls
+  124  pwd
+  125  cd $EXEDIR/influxdb
+  126  git checkout gorilla
+  127  go test  -test.timeout 0 -run TestCompress_XC2 -v github.com/influxdata/influxdb/v2/tsdb/engine/tsm1
+  128  vi ~/.bashrc
+  129  source ~/.bashrc
+  130  echo $RESDIR 
+  131  cd ../
+  132  ls
+  133  cd cmake-3.22.5/
+  134  ./bootstrap
+  135  ls
+  136  rm CMakeCache.txt
+  137  ./bootstrap
+  138  make
+  139  sudo make install
+  140  cmake --version
+  141  ls
+  142  cd ../ndzip/
+  143  ls
+  144  find . -name CMakeCache.txt
+  145  cmake -B build -DCMAKE_CUDA_ARCHITECTURES=75 -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-march=native" -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -DCMAKE_CUDA_HOST_COMPILER=/usr/bin/g++ -DBOOST_ROOT=/usr/local/include
+  146  cmake --build build -j
+  147  echo $EXECDIR 
+  148  echo $DATADIR 
+  149  $EXECDIR/ndzip/build/compress -i $DATADIR/astro_mhd_f64 -o $DATADIR/astro_mhd_f64.ndzip -t double -n 68557320
+  150  lscpu
+  151  numactl -H
+  152  sudo apt install numactl
+  153  numactl -H
+  154  free -g
+  155  nvidia-smi 
+  156  cd ../influxdb/
+  157  git checkout chimp128
+  158  go test  -test.timeout 0 -run TestCompress_XC2 -v github.com/influxdata/influxdb/v2/tsdb/engine/tsm1 >> $RESDIR/res_chimp128.txt
+  159  ls -l ~/data/experiments/
+  160  cd ../bitshuffle/
+  161  ls
+  162  cd tests/
+  163  ls
+  164  vi f_hdrnight.py 
+  165  grep 'K = 0' f_hdrnight.py 
+  166  sed -i 's/K = 0/K = 1/' f_hdrnight.py 
+  167  grep 'K = ' f_hdrnight.py 
+  168  sed -i 's/K = 1/K = 2/' f_hdrnight.py 
+  169  sed -i 's/K = 2/K = 3/' f_hdrnight.py 
+  170  sed -i 's/K = 3/K = 4/' f_hdrnight.py 
+  171  sed -i 's/K = 4/K = 5/' f_hdrnight.py 
+  172  cat ../../../data/experiments/res_bitshuffle.txt 
+  173  top
+  174  cat ../../../data/experiments/res_bitshuffle.txt 
+  175  sed -i 's/K = 5/K = 6/' f_hdrnight.py 
+  176  sed -i 's/K = 6/K = 7/' f_hdrnight.py 
+  177  sed -i 's/K = 7/K = 8/' f_hdrnight.py 
+  178  sed -i 's/K = 8/K = 0/' f_hdrnight.py 
+  179  sed -i 's/K = 0/K = 9/' f_hdrnight.py 
+  180  grep 'K = ' f_hdrnight.py 
+  181  sed -i 's/K = 9/K = 10/' f_hdrnight.py 
+  182  sed -i 's/K = 10/K = 11/' f_hdrnight.py 
+  183  sed -i 's/K = 11/K = 12/' f_hdrnight.py 
+  184  cat ../../../data/experiments/res_bitshuffle.txt 
+  185  grep 'K = ' f_hdrnight.py 
+  186  sed -i 's/K = 12/K = 13/' f_hdrnight.py 
+  187  sed -i 's/K = 13/K = 14/' f_hdrnight.py 
+  188  sed -i 's/K = 14/K = 15/' f_hdrnight.py 
+  189  cat ../../../data/experiments/res_bitshuffle.txt 
+  190  ls ~/data/experiments/
+  191  top
+  192  cat ../../../data/experiments/res_chimp.txt 
+  193  cat ../../../data/experiments/res_chimp128.txt
+  194  cd ../../scripts/
+  195  ls
+  196  bash batch_fpzip_comp.sh 
+  197  cat ~/data/experiments/res_fpzip.txt 
+  198  ls ../fpzip/
+  199  ls ../fpzip/build/
+  200  ls ../fpzip/build/bin/
+  201  cd ../fpzip/
+  202  ls
+  203  rm -r build/
+  204  mkdir build
+  205  cd build/
+  206  cmake ..
+  207  cmake --build . --config Release
+  208  cd ../../scripts/
+  209  bash batch_fpzip_comp.sh 
+  210  cat ../../data/experiments/res_fpzip.txt 
+  211  exit
+  212  vi ~/.bashrc
+  213  source ~/.bashrc
+  214  go version
+  215  cd software/
+  216  ls
+  217  sudo apt install make clang pkg-config libssl-dev
+  218  wget https://apt.llvm.org/llvm.sh
+  219  chmod +x llvm.sh
+  220  sudo ./llvm.sh 10
+  221  clang --version
+  222  ls
+  223  cd boost_1_66_0/
+  224  sudo ./bootstrap.sh --prefix=/usr/local
+  225  sudo ./b2 install
+  226  zstd --version
+  227  lz4 --version
+  228  ls ~/
+  229  virtualenv --version
+  230  ls
+  231  mv env4shuffle/ ~/
+  232  source ~/env4shuffle/bin/activate
+  233  pip list
+  234  python -V
+  235  cd ../../
+  236  cd code/
+  237  ls
+  238  ls -l
+  239  deactivate
+  240  cd buff/
+  241  cd ../
+  242  rustup toolchain install nightly
+  243  # rustup default nightly
+  244  rustup default nightly
+  245  EXEDIR=/home/cc/code/FPSurvey/buff/database
+  246  DATADIR=/home/cc/data
+  247  ls
+  248  cd ../data/
+  249  ls
+  250  mkdir experiments
+  251  top
+  252  cd ../code/
+  253  ls
+  254  wget https://developer.download.nvidia.com/compute/nvcomp/2.3.3/local_installers/nvcomp_install_CUDA_11.x.tgz
+  255  mkdir nvbench
+  256  cd nvbench/
+  257  mv ../nvcomp_install_CUDA_11.x.tgz .
+  258  ls
+  259  tar -xzvf nvcomp_install_CUDA_11.x.tgz
+  260  ls -l
+  261  /bin/benchmark_lz4_chunked -f $DATADIR/astro_mhd_f64
+  262  ls bin/
+  263  ./bin/benchmark_lz4_chunked -f $DATADIR/astro_mhd_f64
+  264  ls /usr/local/include/
+  265  cd ../ndzip/
+  266  ls
+  267  cmake -B build -DCMAKE_CUDA_ARCHITECTURES=75 -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-march=native" -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -DCMAKE_CUDA_HOST_COMPILER=/usr/bin/g++ -DBOOST_ROOT=/usr/local/include -DNDZIP_BUILD_BENCHMARK=YES
+  268  sudo apt  install cmake
+  269  cmake -B build -DCMAKE_CUDA_ARCHITECTURES=75 -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-march=native" -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -DCMAKE_CUDA_HOST_COMPILER=/usr/bin/g++ -DBOOST_ROOT=/usr/local/include -DNDZIP_BUILD_BENCHMARK=YES
+  270  ls
+  271  cd cmake/
+  272  ls
+  273  cd ../
+  274  ls build/
+  275  ls build/CMake
+  276  ls build/CMakeFiles/
+  277  cmake -B build --target clean
+  278  cmake --clean-first -B build -DCMAKE_CUDA_ARCHITECTURES=75 -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-march=native" -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -DCMAKE_CUDA_HOST_COMPILER=/usr/bin/g++ -DBOOST_ROOT=/usr/local/include -DNDZIP_BUILD_BENCHMARK=YES
+  279  ls
+  280  rm -rf build
+  281  cmake --clean-first -B build -DCMAKE_CUDA_ARCHITECTURES=75 -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-march=native" -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -DCMAKE_CUDA_HOST_COMPILER=/usr/bin/g++ -DBOOST_ROOT=/usr/local/include -DNDZIP_BUILD_BENCHMARK=YES
+  282  ls
+  283  cat CMakeLists.txt 
+  284  ls
+  285  cd cmake/
+  286  ls
+  287  cd ../
+  288  ls
+  289  cmake -B build -DCMAKE_CUDA_ARCHITECTURES=75 -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-march=native" -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -DCMAKE_CUDA_HOST_COMPILER=/usr/bin/g++ -DBOOST_ROOT=/usr/local/include -DNDZIP_BUILD_BENCHMARK=YES
+  290  mkdir build
+  291  cmake -B build -DCMAKE_CUDA_ARCHITECTURES=75 -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-march=native" -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -DCMAKE_CUDA_HOST_COMPILER=/usr/bin/g++ -DBOOST_ROOT=/usr/local/include -DNDZIP_BUILD_BENCHMARK=YES
+  292  clang --version
+  293  cmake -B build -DCMAKE_CUDA_ARCHITECTURES=75 -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-march=native" -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -DCMAKE_CUDA_HOST_COMPILER=/usr/bin/g++ -DBOOST_ROOT=/usr/local/include
+  294  ls
+  295  ls build/
+  296  cmake --version
+  297  cd ../
+  298  whereis cmake
+  299  ls /usr/lib
+  300  cd ../data/
+  301  ls -l
+  302  source ~/env4shuffle/bin/activate
+  303  ls
+  304  ipython
+  305  pip install ipython
+  306  ipython
+  307  cd ../code/
+  308  ls
+  309  cd pFPC/
+  310  ls -l ../../data/experiments/
+  311  cat ../../data/experiments/res_gorilla.txt 
+  312  ls
+  313  gcc -O3 -pthread -std=c++11 pfpc.c -o pfpc
+  314  gcc -O3 -pthread -std=c++11 pFPC.c -o pfpc
+  315  ls -l
+  316  cd ../
+  317  ls
+  318  cd SPDP/
+  319  gcc -O3 SPDP_11.c -o spdp
+  320  cd ../
+  321  cd GFC/
+  322  nvcc -O3 -arch=sm_75 GFC_22.cu -o GFC
+  323  ls -l
+  324  cd ../MPC/
+  325  ls -l
+  326  nvcc -O3 -arch=sm_75 MPC_float_12.cu -o MPC_float
+  327  nvcc -O3 -arch=sm_70 MPC_float_12.cu -o MPC_float
+  328  nvcc -O3 -arch=sm_61 MPC_float_12.cu -o MPC_float
+  329  nvcc -O3 -arch=sm_35 MPC_double_12.cu -o MPC_double
+  330  nvcc -O3 -arch=sm_61 MPC_double_12.cu -o MPC_double
+  331  ls -l
+  332  cd ../
+  333  ls
+  334  mkdir envsetup
+  335  mv chameleon_setup*.sh envsetup/
+  336  ls
+  337  cd scripts/
+  338  ls
+  339  rm batch_compress.sh batch_decompress.sh batch_buff.sh 
+  340  ls
+  341  cd ../../data/
+  342  ls -l
+  343  ls
+  344  ipython
+  345  ls
+  346  cd ../code/scripts/
+  347  ls -l
+  348  rm batch_hdr_night.sh
+  349  vi batch_martin_decomp.sh
+  350  cd ../
+  351  ls
+  352  ls nvbench
+  353  ls nvbench/bin/
+  354  cd scripts/
+  355  ls -l
+  356  grep -ri '/home/' *.sh
+  357  rm batch_ndzip_decomp2.sh batch_pfpc.sh batch_test.sh
+  358  ls -l
+  359  cat batch_bitshuffle.sh 
+  360  bash batch_bitshuffle.sh 
+  361  cd $EXECDIR
+  362  cd bitshuffle/tests/
+  363  echo $RESDIR 
+  364  vi ~/.bashrc
+  365  source ~/.bashrc
+  366  echo $RESDIR 
+  367  source ~/env4shuffle/bin/activate
+  368  python f_hdrnight.py >> $RESDIR/res_bitshuffle.txt
+  369  pip list
+  370  python -V
+  371  ls
+  372  python -V
+  373  pip -V
+  374  python -c "import numpy as np"
+  375  ls
+  376  cd ~/
+  377  ls
+  378  rm -rf env4shuffle/
+  379  deactivate
+  380  ls
+  381  which python
+  382  ls -l $(which python)
+  383  ls -l /usr/bin/python*
+  384  virtualenv --python="/usr/bin/python3.7" env4shuffle
+  385  source env4shuffle/bin/activate
+  386  python -V
+  387  cd code/bitshuffle/
+  388  pip list
+  389  pip install -r requirements.txt 
+  390  pip list
+  391  cat requirements.txt 
+  392  vi requirements.txt 
+  393  pip list
+  394  pip install -r requirements.txt 
+  395  ls
+  396  pip list
+  397  pip install numpy
+  398  cd ~/
+  399  deactivate
+  400  rm -rf env4shuffle/
+  401  virtualenv --python="/usr/bin/python3.7" env4shuffle
+  402  source env4shuffle/bin/activate
+  403  pip install numpy
+  404  pip list
+  405  pip install Cython
+  406  pip list
+  407  cd code/bitshuffle/tests/
+  408  ls
+  409  python -c "import numpy"
+  410  echo $RESDIR 
+  411  python f_hdrnight.py >> $RESDIR/res_bitshuffle.txt
+  412  cd ../../scripts/
+  413  ls
+  414  cat batch_buff_p10.sh
+  415  rustup show
+  416  cd ../buff/
+  417  cd database/
+  418  rustup default nightly
+  419  cargo +nightly build --release  --package buff --bin comp_profiler
+  420  ls
+  421  ./target/release/comp_profiler $DATADIR/astro_mhd_f64 buff-simd64 1000000000 1.15
+  422  cd ../../
+  423  cd scripts/
+  424  vi batch_ndzip.sh 
+  425  vi batch_ndzip_decomp.sh
+  426  cat batch_ndzip.sh 
+  427  cat batch_ndzip_decomp.sh
+  428  cd ../bitshuffle/
+  429  git submodule update --init
+  430  python setup.py install --zstd
+  431  ls
+  432  cd tests/
+  433  ls
+  434  python f_hdrnight.py 
+  435  echo $RESDIR 
+  436  python f_hdrnight.py >>$RESDIR/res_bitshuffle.txt
+  437  cat f_hdrnight.py 
+  438  python f_hdrnight.py >>$RESDIR/res_bitshuffle.txt
+  439  cd ../../scripts/
+  440  ls
+  441  cat batch_buff_p10.sh 
+  442  bash batch_buff_p10.sh 
+  443  ls
+  444  bash batch_chimp.sh 
+  445  cat testall.sh 
+  446  cd ../MPC/
+  447  ls
+  448  exit
+  449  top
+  450  ls code/scripts/
+  451  vi testall.sh
+  452  ls code/scripts/
+  453  top
+  454  cd data/experiments/
+  455  ls -l
+  456  ls -l ../
+  457  ls -l
+  458  cat res_fpzip.txt
+  459  cat res_fpzip_decompress.txt
+  460  ls -l
+  461  date
+  462  ls -l
+  463  exit
+  464  cd code/scripts/
+  465  ls
+  466  mv ~/testall.sh .
+  467  bash testall.sh 
+  468  exit
+  469  top
+  470  history | grep nvcc
+  471  nvcc --version
+  472  cd code/
+  473  ls
+  474  cd MPC/
+  475  ls
+  476  cat MPC_double
+  477  cat MPC_double_12.cu 
+  478  top
+  479  nvidia-smi 
+  480  ls
+  481  cd ../scripts/
+  482  ls
+  483  cat batch_buff_p10.sh 
+  484  ls
+  485  bash testall.sh 
+  486  cat ~/data/experiments/res_chimp.txt 
+  487  ls
+  488  bash batch_chimp.sh 
+  489  cat batch_chimp.sh 
+  490  cd ../
+  491  ls
+  492  git clone https://github.com/mohit1997/Dzip-torch.git
+  493  cd ../
+  494  python -V
+  495  python3 -V
+  496  python3 -m venv env4dzip
+  497  source env4dzip/bin/activate
+  498  pip list
+  499  pip install --upgrade pip
+  500  pip list
+  501  cd code/Dzip-torch/
+  502  ls
+  503  bash install.sh 
+  504  ls
+  505  cd coding-gpu/
+  506  ls
+  507  cd ../
+  508  ls
+  509  cd Modl
+  510  cd Models/
+  511  ls
+  512  ls -l
+  513  ls -lh
+  514  cd ../coding-gpu/
+  515  ls -lh ~/data/
+  516  top
+  517  nvidia-smi 
+  518  cd ~/data/experiments/
+  519  ls res_dzip_turb_bs.txt 
+  520  cat res_dzip_turb_bs.txt 
+  521  nvidia-smi 
+  522  cat res_dzip_turb_bs.txt 
+  523  ls ../../code/Dzip-torch/
+  524  ls ../../code/Dzip-torch/coding-gpu/
+  525  grep 'Step ' ../../code/Dzip-torch/coding-gpu/*.py
+  526  ls res_dzip_turb_bs.txt 
+  527  rm res_dzip_turb_bs.txt 
+  528  cd ../
+  529  ls
+  530  cd experiments/
+  531  ls -l res_dzip_msgbt.txt 
+  532  cat res_dzip_msgbt.txt 
+  533  tail res_dzip_msgbt.txt 
+  534  top
+  535  cat res_dzip_msgbt.txt 
+  536  nvidia-smi 
+  537  cat res_dzip_msgbt.txt 
+  538  rm res_dzip_msgbt.txt 
+  539  nvidia-smi 
+  540  top
+  541  cat res_dzip_msgbt.txt 
+  542  nvidia-smi 
+  543  cd ../../code/scripts/
+  544  ls
+  545  bash testall.sh 
+  546  date
+  547  ls -l ~/data/experiments/res_chimp.txt 
+  548  cat ~/data/experiments/res_chimp.txt 
+  549  cat ~/data/experiments/res_gorilla.txt
+  550  vi ~/data/experiments/res_dzip_msgbt.txt 
+  551  cd ../../data/
+  552  ls -l msg_bt*
+  553  cd ~/code/scripts/
+  554  bash testall.sh 
+  555  date
+  556  ls -l ~/data/experiments/res_gorilla.txt 
+  557  cat ~/data/experiments/res_gorilla.txt 
+  558  grep 'ok    ' ~/data/experiments/res_chimp.txt 
+  559  cat ~/data/experiments/res_chimp.txt 
+  560  grep -i 'tsm1' ~/data/experiments/res_chimp.txt 
+  561  ls -l ~/data/experiments/res_dzip_msgbt_decomp.txt 
+  562  cat ~/data/experiments/res_dzip_msgbt_decomp.txt 
+  563  date
+  564  ls -l
+  565  cat testall.sh 
+  566  history | grep 'sed'
+  567  ls
+  568  vi batch_bitshuffle.sh 
+  569  bash batch_bitshuffle.sh 
+  570  vi batch_bitshuffle.sh 
+  571  bash batch_bitshuffle.sh 
+  572  vi batch_bitshuffle.sh 
+  573  bash batch_bitshuffle.sh 
+  574  vi batch_bitshuffle.sh 
+  575  bash batch_bitshuffle.sh 
+  576  vi batch_bitshuffle.sh 
+  577  bash batch_bitshuffle.sh 
+  578  less ../bitshuffle/tests/f_hdrnight.py 
+  579  vi batch_bitshuffle.sh 
+  580  bash batch_bitshuffle.sh 
+  581  less ../bitshuffle/tests/f_hdrnight.py 
+  582  vi batch_bitshuffle.sh 
+  583  cat ../bitshuffle/tests/f_hdrnight.py 
+  584  vi ../bitshuffle/tests/f_hdrnight.py 
+  585  vi batch_bitshuffle.sh 
+  586  bash batch_bitshuffle.sh 
+  587  grep 'K ='  ../bitshuffle/tests/f_hdrnight.py 
+  588  vi batch_bitshuffle.sh 
+  589  bash batch_bitshuffle.sh 
+  590  vi batch_bitshuffle.sh 
+  591  bash batch_bitshuffle.sh 
+  592  grep 'K ='  ../bitshuffle/tests/f_hdrnight.py 
+  593  :q
+  594  bash batch_bitshuffle.sh 
+  595  grep 'K ='  ../bitshuffle/tests/f_hdrnight.py 
+  596  vi ../bitshuffle/tests/f_hdrnight.py 
+  597  bash batch_bitshuffle.sh 
+  598  grep 'K ='  ../bitshuffle/tests/f_hdrnight.py 
+  599  less  ../bitshuffle/tests/f_hdrnight.py 
+  600  bash batch_bitshuffle.sh 
+  601  cat ~/data/experiments/res_bitshuffle.txt 
+  602  bash batch_bitshuffle.sh 
+  603  grep 'K ='  ../bitshuffle/tests/f_hdrnight.py 
+  604  bash batch_bitshuffle.sh 
+  605  cd ~/data/experiments/
+  606  vi res_bitshuffle.txt 
+  607  cat res_dzip_msgbt_decomp.txt 
+  608  cd ~/code/Dzip-torch/Models/
+  609  ls
+  610  ls ~/data/num_control
+  611  cd ../../scripts/
+  612  bash batch_bitshuffle.sh 
+  613  cat ~/data/experiments/res_dzip_numcontrol.txt 
+  614  cat ~/data/experiments/res_bitshuffle.txt 
+  615  grep 'K =' ../bitshuffle/tests/f_hdrnight.py 
+  616  cd ../bitshuffle/tests/
+  617  sed -i 's/K = 0/K = 15/' f_hdrnight.py
+  618  echo $RESDIR 
+  619  python f_hdrnight.py >> $RESDIR/res_bitshuffle.txt
+  620  deactivate
+  621  source ~/env4shuffle/bin/activate
+  622  python f_hdrnight.py >> $RESDIR/res_bitshuffle.txt
+  623  cat ~/data/experiments/res_bitshuffle.txt 
+  624  sed -i 's/K = 15/K = 0/' f_hdrnight.py
+  625  cd ../../scripts/
+  626  bash batch_bitshuffle.sh 
+  627  cat ~/data/experiments/res_bitshuffle.txt 
+  628  grep 'wave_f32             decompress zstd 64' ~/data/experiments/res_bitshuffle.txt 
+  629  ls ~/data/experiments/res_dzip_*
+  630  ls -l ~/data/experiments/res_dzip_*
+  631  cat ~/data/experiments/res_dzip_*
+  632  ls ~/data/experiments/res_dzip_*
+  633  cat ~/data/experiments/res_dzip_numcontrol.txt 
+  634  watch nvidia-smi
+  635  top
+  636  vi ~/data/experiments/res_dzip_numcontrol.txt 
+  637  top
+  638  watch nvidia-smi
+  639  ls -l ~/data/experiments/res_dzip_numcontrol_decomp.txt 
+  640  date
+  641  cat ~/data/experiments/res_dzip_numcontrol_decomp.txt 
+  642  ls -l ~/data/num_control*
+  643  cd ~/data/
+  644  diff num_control num_control.dzout 
+  645  ls
+  646  ls ~/code/Dzip-torch/Models/
+  647  watch nvidia-smi
+  648  ls -l > experiments/data_size.txt
+  649  cd experiments/
+  650  ls
+  651  history > cham_hist3.txt

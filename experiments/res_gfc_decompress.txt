@@ -1,0 +1,216 @@
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 48: 30930 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_mhd_f64.gfc > $DATADIR/astro_mhd_f64.gfcout
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 49: 30950 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_pt_f64.gfc > $DATADIR/astro_pt_f64.gfcout
+decomp-time: 29.01 ms
+decomp-time: 216.99 ms
+decomp-time: 52.11 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 53: 31026 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/miranda3d.gfc > $DATADIR/miranda3d.gfcout
+decomp-time: 540.82 ms
+decomp-time: 285.76 ms
+decomp-time: 321.32 ms
+decomp-time: 324.18 ms
+decomp-time: 177.26 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 59: 31140 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/tpch_lineitem_f32.gfc > $DATADIR/tpch_lineitem_f32.gfcout
+decomp-time: 241.57 ms
+batch_martin_decomp.sh: line 61: /home/cc/data/ts_gas.gfc: No such file or directory
+decomp-time: 145.49 ms
+decomp-time: 1114.77 ms
+-rw-rw-r-- 1 cc cc         0 Oct  4 06:26 /home/cc/data/astro_mhd_f64.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 06:26 /home/cc/data/astro_pt_f64.gfcout
+-rw-rw-r-- 1 cc cc  11625304 Oct  4 06:26 /home/cc/data/citytemp_f32.gfcout
+-rw-rw-r-- 1 cc cc 100000000 Oct  4 06:26 /home/cc/data/h3d_temp.gfcout
+-rw-rw-r-- 1 cc cc  22749792 Oct  4 06:26 /home/cc/data/hdr_night.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 06:26 /home/cc/data/miranda3d.gfcout
+-rw-rw-r-- 1 cc cc 266389432 Oct  4 06:26 /home/cc/data/msg_bt.gfcout
+-rw-rw-r-- 1 cc cc 141840000 Oct  4 06:26 /home/cc/data/num_brain.gfcout
+-rw-rw-r-- 1 cc cc 159504744 Oct  4 06:26 /home/cc/data/num_control.gfcout
+-rw-rw-r-- 1 cc cc  94281728 Oct  4 06:26 /home/cc/data/rsim_f32.gfcout
+-rw-rw-r-- 1 cc cc 164998080 Oct  4 06:26 /home/cc/data/spitzer_irac.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 06:26 /home/cc/data/tpch_lineitem_f32.gfcout
+-rw-rw-r-- 1 cc cc 120000000 Oct  4 06:26 /home/cc/data/tpch_order_f64.gfcout
+-rw-rw-r-- 1 cc cc  67108864 Oct  4 06:26 /home/cc/data/turbulence.gfcout
+-rw-rw-r-- 1 cc cc 536870912 Oct  4 06:26 /home/cc/data/wave_f32.gfcout
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 48:  2906 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_mhd_f64.gfc > $DATADIR/astro_mhd_f64.gfcout
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 49:  2927 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_pt_f64.gfc > $DATADIR/astro_pt_f64.gfcout
+decomp-time: 28.90 ms
+decomp-time: 216.45 ms
+decomp-time: 53.89 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 53:  3008 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/miranda3d.gfc > $DATADIR/miranda3d.gfcout
+decomp-time: 513.25 ms
+decomp-time: 276.90 ms
+decomp-time: 321.62 ms
+decomp-time: 323.63 ms
+decomp-time: 178.81 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 59:  3126 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/tpch_lineitem_f32.gfc > $DATADIR/tpch_lineitem_f32.gfcout
+decomp-time: 245.43 ms
+batch_martin_decomp.sh: line 61: /home/cc/data/ts_gas.gfc: No such file or directory
+decomp-time: 139.45 ms
+decomp-time: 1078.51 ms
+-rw-rw-r-- 1 cc cc         0 Oct  4 16:50 /home/cc/data/astro_mhd_f64.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 16:51 /home/cc/data/astro_pt_f64.gfcout
+-rw-rw-r-- 1 cc cc  11625304 Oct  4 16:51 /home/cc/data/citytemp_f32.gfcout
+-rw-rw-r-- 1 cc cc 100000000 Oct  4 16:51 /home/cc/data/h3d_temp.gfcout
+-rw-rw-r-- 1 cc cc  22749792 Oct  4 16:51 /home/cc/data/hdr_night.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 16:51 /home/cc/data/miranda3d.gfcout
+-rw-rw-r-- 1 cc cc 266389432 Oct  4 16:51 /home/cc/data/msg_bt.gfcout
+-rw-rw-r-- 1 cc cc 141840000 Oct  4 16:51 /home/cc/data/num_brain.gfcout
+-rw-rw-r-- 1 cc cc 159504744 Oct  4 16:51 /home/cc/data/num_control.gfcout
+-rw-rw-r-- 1 cc cc  94281728 Oct  4 16:51 /home/cc/data/rsim_f32.gfcout
+-rw-rw-r-- 1 cc cc 164998080 Oct  4 16:51 /home/cc/data/spitzer_irac.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 16:51 /home/cc/data/tpch_lineitem_f32.gfcout
+-rw-rw-r-- 1 cc cc 120000000 Oct  4 16:51 /home/cc/data/tpch_order_f64.gfcout
+-rw-rw-r-- 1 cc cc  67108864 Oct  4 16:51 /home/cc/data/turbulence.gfcout
+-rw-rw-r-- 1 cc cc 536870912 Oct  4 16:51 /home/cc/data/wave_f32.gfcout
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 48: 22810 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_mhd_f64.gfc > $DATADIR/astro_mhd_f64.gfcout
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 49: 22830 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_pt_f64.gfc > $DATADIR/astro_pt_f64.gfcout
+decomp-time: 28.15 ms
+decomp-time: 210.00 ms
+decomp-time: 53.02 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 53: 22906 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/miranda3d.gfc > $DATADIR/miranda3d.gfcout
+decomp-time: 512.43 ms
+decomp-time: 276.37 ms
+decomp-time: 326.91 ms
+decomp-time: 317.82 ms
+decomp-time: 183.20 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 59: 23022 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/tpch_lineitem_f32.gfc > $DATADIR/tpch_lineitem_f32.gfcout
+decomp-time: 246.59 ms
+batch_martin_decomp.sh: line 61: /home/cc/data/ts_gas.gfc: No such file or directory
+decomp-time: 141.87 ms
+decomp-time: 1087.35 ms
+-rw-rw-r-- 1 cc cc         0 Oct  4 17:58 /home/cc/data/astro_mhd_f64.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 17:58 /home/cc/data/astro_pt_f64.gfcout
+-rw-rw-r-- 1 cc cc  11625304 Oct  4 17:58 /home/cc/data/citytemp_f32.gfcout
+-rw-rw-r-- 1 cc cc 100000000 Oct  4 17:58 /home/cc/data/h3d_temp.gfcout
+-rw-rw-r-- 1 cc cc  22749792 Oct  4 17:58 /home/cc/data/hdr_night.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 17:58 /home/cc/data/miranda3d.gfcout
+-rw-rw-r-- 1 cc cc 266389432 Oct  4 17:58 /home/cc/data/msg_bt.gfcout
+-rw-rw-r-- 1 cc cc 141840000 Oct  4 17:58 /home/cc/data/num_brain.gfcout
+-rw-rw-r-- 1 cc cc 159504744 Oct  4 17:58 /home/cc/data/num_control.gfcout
+-rw-rw-r-- 1 cc cc  94281728 Oct  4 17:58 /home/cc/data/rsim_f32.gfcout
+-rw-rw-r-- 1 cc cc 164998080 Oct  4 17:58 /home/cc/data/spitzer_irac.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 17:58 /home/cc/data/tpch_lineitem_f32.gfcout
+-rw-rw-r-- 1 cc cc 120000000 Oct  4 17:58 /home/cc/data/tpch_order_f64.gfcout
+-rw-rw-r-- 1 cc cc  67108864 Oct  4 17:58 /home/cc/data/turbulence.gfcout
+-rw-rw-r-- 1 cc cc 536870912 Oct  4 17:58 /home/cc/data/wave_f32.gfcout
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 48: 45464 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_mhd_f64.gfc > $DATADIR/astro_mhd_f64.gfcout
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 49: 45483 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_pt_f64.gfc > $DATADIR/astro_pt_f64.gfcout
+decomp-time: 27.94 ms
+decomp-time: 215.61 ms
+decomp-time: 53.94 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 53: 45563 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/miranda3d.gfc > $DATADIR/miranda3d.gfcout
+decomp-time: 530.49 ms
+decomp-time: 275.24 ms
+decomp-time: 321.39 ms
+decomp-time: 315.52 ms
+decomp-time: 177.78 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 59: 45679 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/tpch_lineitem_f32.gfc > $DATADIR/tpch_lineitem_f32.gfcout
+decomp-time: 237.27 ms
+batch_martin_decomp.sh: line 61: /home/cc/data/ts_gas.gfc: No such file or directory
+decomp-time: 144.81 ms
+decomp-time: 1072.47 ms
+-rw-rw-r-- 1 cc cc         0 Oct  4 22:05 /home/cc/data/astro_mhd_f64.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 22:05 /home/cc/data/astro_pt_f64.gfcout
+-rw-rw-r-- 1 cc cc  11625304 Oct  4 22:05 /home/cc/data/citytemp_f32.gfcout
+-rw-rw-r-- 1 cc cc 100000000 Oct  4 22:05 /home/cc/data/h3d_temp.gfcout
+-rw-rw-r-- 1 cc cc  22749792 Oct  4 22:05 /home/cc/data/hdr_night.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 22:05 /home/cc/data/miranda3d.gfcout
+-rw-rw-r-- 1 cc cc 266389432 Oct  4 22:05 /home/cc/data/msg_bt.gfcout
+-rw-rw-r-- 1 cc cc 141840000 Oct  4 22:05 /home/cc/data/num_brain.gfcout
+-rw-rw-r-- 1 cc cc 159504744 Oct  4 22:05 /home/cc/data/num_control.gfcout
+-rw-rw-r-- 1 cc cc  94281728 Oct  4 22:05 /home/cc/data/rsim_f32.gfcout
+-rw-rw-r-- 1 cc cc 164998080 Oct  4 22:05 /home/cc/data/spitzer_irac.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  4 22:05 /home/cc/data/tpch_lineitem_f32.gfcout
+-rw-rw-r-- 1 cc cc 120000000 Oct  4 22:05 /home/cc/data/tpch_order_f64.gfcout
+-rw-rw-r-- 1 cc cc  67108864 Oct  4 22:05 /home/cc/data/turbulence.gfcout
+-rw-rw-r-- 1 cc cc 536870912 Oct  4 22:05 /home/cc/data/wave_f32.gfcout
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 48: 18945 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_mhd_f64.gfc > $DATADIR/astro_mhd_f64.gfcout
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 49: 18950 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_pt_f64.gfc > $DATADIR/astro_pt_f64.gfcout
+decomp-time: 181.10 ms
+decomp-time: 223.39 ms
+decomp-time: 301.32 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 53: 18967 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/miranda3d.gfc > $DATADIR/miranda3d.gfcout
+decomp-time: 530.12 ms
+decomp-time: 287.25 ms
+decomp-time: 335.34 ms
+decomp-time: 398.60 ms
+decomp-time: 198.13 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 59: 18992 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/tpch_lineitem_f32.gfc > $DATADIR/tpch_lineitem_f32.gfcout
+decomp-time: 252.87 ms
+batch_martin_decomp.sh: line 61: /home/cc/data/ts_gas.gfc: No such file or directory
+decomp-time: 169.28 ms
+decomp-time: 1079.28 ms
+-rw-rw-r-- 1 cc cc         0 Oct  5 06:21 /home/cc/data/astro_mhd_f64.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  5 06:21 /home/cc/data/astro_pt_f64.gfcout
+-rw-rw-r-- 1 cc cc  11625304 Oct  5 06:21 /home/cc/data/citytemp_f32.gfcout
+-rw-rw-r-- 1 cc cc 100000000 Oct  5 06:21 /home/cc/data/h3d_temp.gfcout
+-rw-rw-r-- 1 cc cc  22749792 Oct  5 06:21 /home/cc/data/hdr_night.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  5 06:21 /home/cc/data/miranda3d.gfcout
+-rw-rw-r-- 1 cc cc 266389432 Oct  5 06:21 /home/cc/data/msg_bt.gfcout
+-rw-rw-r-- 1 cc cc 141840000 Oct  5 06:21 /home/cc/data/num_brain.gfcout
+-rw-rw-r-- 1 cc cc 159504744 Oct  5 06:21 /home/cc/data/num_control.gfcout
+-rw-rw-r-- 1 cc cc  94281728 Oct  5 06:21 /home/cc/data/rsim_f32.gfcout
+-rw-rw-r-- 1 cc cc 164998080 Oct  5 06:21 /home/cc/data/spitzer_irac.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  5 06:21 /home/cc/data/tpch_lineitem_f32.gfcout
+-rw-rw-r-- 1 cc cc 120000000 Oct  5 06:21 /home/cc/data/tpch_order_f64.gfcout
+-rw-rw-r-- 1 cc cc  67108864 Oct  5 06:21 /home/cc/data/turbulence.gfcout
+-rw-rw-r-- 1 cc cc 536870912 Oct  5 06:21 /home/cc/data/wave_f32.gfcout
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 48: 38723 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_mhd_f64.gfc > $DATADIR/astro_mhd_f64.gfcout
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 49: 38728 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/astro_pt_f64.gfc > $DATADIR/astro_pt_f64.gfcout
+decomp-time: 27.62 ms
+decomp-time: 208.51 ms
+decomp-time: 58.92 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 53: 38745 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/miranda3d.gfc > $DATADIR/miranda3d.gfcout
+decomp-time: 515.54 ms
+decomp-time: 279.61 ms
+decomp-time: 322.25 ms
+decomp-time: 314.48 ms
+decomp-time: 182.52 ms
+GFC: GFC_22.cu:506: void Decompress(int, int, int, int): Assertion `off[i] == num' failed.
+batch_martin_decomp.sh: line 59: 38770 Aborted                 (core dumped) ../GFC/GFC < $DATADIR/tpch_lineitem_f32.gfc > $DATADIR/tpch_lineitem_f32.gfcout
+decomp-time: 236.65 ms
+batch_martin_decomp.sh: line 61: /home/cc/data/ts_gas.gfc: No such file or directory
+decomp-time: 145.59 ms
+decomp-time: 1042.71 ms
+-rw-rw-r-- 1 cc cc         0 Oct  5 17:35 /home/cc/data/astro_mhd_f64.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  5 17:35 /home/cc/data/astro_pt_f64.gfcout
+-rw-rw-r-- 1 cc cc  11625304 Oct  5 17:35 /home/cc/data/citytemp_f32.gfcout
+-rw-rw-r-- 1 cc cc 100000000 Oct  5 17:35 /home/cc/data/h3d_temp.gfcout
+-rw-rw-r-- 1 cc cc  22749792 Oct  5 17:35 /home/cc/data/hdr_night.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  5 17:35 /home/cc/data/miranda3d.gfcout
+-rw-rw-r-- 1 cc cc 266389432 Oct  5 17:35 /home/cc/data/msg_bt.gfcout
+-rw-rw-r-- 1 cc cc 141840000 Oct  5 17:35 /home/cc/data/num_brain.gfcout
+-rw-rw-r-- 1 cc cc 159504744 Oct  5 17:35 /home/cc/data/num_control.gfcout
+-rw-rw-r-- 1 cc cc  94281728 Oct  5 17:35 /home/cc/data/rsim_f32.gfcout
+-rw-rw-r-- 1 cc cc 164998080 Oct  5 17:35 /home/cc/data/spitzer_irac.gfcout
+-rw-rw-r-- 1 cc cc         0 Oct  5 17:35 /home/cc/data/tpch_lineitem_f32.gfcout
+-rw-rw-r-- 1 cc cc 120000000 Oct  5 17:35 /home/cc/data/tpch_order_f64.gfcout
+-rw-rw-r-- 1 cc cc  67108864 Oct  5 17:35 /home/cc/data/turbulence.gfcout
+-rw-rw-r-- 1 cc cc 536870912 Oct  5 17:35 /home/cc/data/wave_f32.gfcout
+decomp-time: 580.45 ms
+decomp-time: 583.21 ms
+decomp-time: 571.93 ms
+decomp-time: 578.48 ms
+decomp-time: 573.03 ms
+decomp-time: 577.21 ms

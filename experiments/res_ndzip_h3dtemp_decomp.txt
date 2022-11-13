@@ -1,0 +1,6 @@
+h3d_temp: decomp-time = 113.941 ms, 	138.309 ms 
+h3d_temp: decomp-time = 114.278 ms, 	138.110 ms 
+h3d_temp: decomp-time = 114.417 ms, 	141.009 ms 
+h3d_temp: decomp-time = 115.207 ms, 	140.788 ms 
+h3d_temp: decomp-time = 115.462 ms, 	140.408 ms 
+h3d_temp: decomp-time = 113.664 ms, 	141.122 ms 

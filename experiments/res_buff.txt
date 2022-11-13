@@ -1,0 +1,1908 @@
+f64 size =548458560
+precision 9, precision delta:0.00000000049
+base integer: 2147483648, max:35059022805799
+int_len:14,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write remaining 5 bits of dec
+0.7031250364658361base integer: 2147483648
+total vector size:68557320
+bit packing length:14
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read remaining 5 bits of dec
+length for fixed:68557320
+Number of scan items:68557320
+Time: compress: 1.950371923s , decompress : 1.584313312s
+Performance:/home/cc/data//astro_mhd_f64,1000000000,1.15,0.7031249967237727,268.1800664175476,330.1435820095287
+f64 size =671088640
+precision 9, precision delta:0.00000000049
+base integer: -14562008309, max:14577331380
+int_len:4,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 3 bits of dec
+0.5468750298023224base integer: -14562008309
+total vector size:83886080
+bit packing length:4
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 3 bits of dec
+length for fixed:83886080
+Number of scan items:83886080
+Time: compress: 2.091077399s , decompress : 1.630213928s
+Performance:/home/cc/data//astro_pt_f64,1000000000,1.15,0.5468750045401973,306.06233412018423,392.5865302531655
+f32 size =11625304
+nan-count=0 vec-len=2906326
+precision 9, precision delta:0.00000000049
+base integer: -212600881152, max:236223201280
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187517848995604base integer: -212600881152
+total vector size:2906326
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:2906326
+Number of scan items:2906326
+Time: compress: 81.317829ms , decompress : 72.354542ms
+Performance:/home/cc/data//citytemp_f32,1000000000,1.15,1.2187485349884541,136.33890065017172,153.2285756037078
+f64 size =100000000
+precision 9, precision delta:0.00000000049
+base integer: -9223097571801761792, max:9223098647556588544
+int_len:18446744073709551585,dec_len:31
+f64 size =22749792
+precision 9, precision delta:0.00000000049
+base integer: -9222856597745040384, max:9222897813712979968
+int_len:18446744073709551585,dec_len:31
+f32 size =4294967296
+nan-count=0 vec-len=1073741824
+precision 9, precision delta:0.00000000049
+base integer: 2145852800, max:6443461632
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+infbase integer: 2145852800
+total vector size:1073741824
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:1073741824
+Number of scan items:1073741824
+Time: compress: 26.544250011s , decompress : 20.524262722s
+Performance:/home/cc/data//miranda3d,1000000000,1.15,1.0312499972133082,154.30837291942743,199.56868049508023
+f64 size =266389432
+precision 9, precision delta:0.00000000049
+base integer: -5506469107120, max:6990548293687435264
+int_len:32,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write the 7th byte of dec
+write remaining 7 bits of dec
+0.9843750783627182base integer: -5506469107120
+total vector size:33298679
+bit packing length:32
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read the 7th byte of dec
+read remaining 7 bits of dec
+length for fixed:33298679
+Number of scan items:33298679
+Time: compress: 1.188276632s , decompress : 908.2576ms
+Performance:/home/cc/data//msg_bt,1000000000,1.15,0.9843749638100363,213.7959984930117,279.710061357431
+f64 size =141840000
+precision 9, precision delta:0.00000000049
+base integer: 0, max:6073524204
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+0.5156251410039481base integer: 0
+total vector size:17730000
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:17730000
+Number of scan items:17730000
+Time: compress: 424.709668ms , decompress : 348.447281ms
+Performance:/home/cc/data//num_brain,1000000000,1.15,0.5156250283109428,318.4980347632828,388.2056252950538
+f64 size =159504744
+precision 9, precision delta:0.00000000049
+base integer: -1434044235, max:1529194679
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+0.5000001253881201base integer: -1434044235
+total vector size:19938093
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:19938093
+Time: compress: 372.58483ms , decompress : 279.856973ms
+Performance:/home/cc/data//num_control,1000000000,1.15,0.5000000282123216,408.27107013900087,543.5476759110724
+f32 size =94281728
+nan-count=0 vec-len=23570432
+precision 9, precision delta:0.00000000049
+base integer: 0, max:4883660209651712
+int_len:22,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 5 bits of dec
+1.6562502121301808base integer: 0
+total vector size:23570432
+bit packing length:22
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 5 bits of dec
+length for fixed:23570432
+Number of scan items:23570432
+Time: compress: 700.638943ms , decompress : 597.410351ms
+Performance:/home/cc/data//rsim_f32,1000000000,1.15,1.6562496675523417,128.33156501251432,150.50641809837643
+f32 size =164998080
+nan-count=128132 vec-len=41121388
+precision 9, precision delta:0.00000000049
+base integer: -9223333004191989760, max:9223334103703617536
+int_len:18446744073709551585,dec_len:31
+f32 size =959776816
+nan-count=0 vec-len=239944204
+precision 9, precision delta:0.00000000049
+base integer: 0, max:225377335115776
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000208381778base integer: 0
+total vector size:239944204
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:239944204
+Time: compress: 5.531219911s , decompress : 4.126786015s
+Performance:/home/cc/data//tpch_lineitem_f32,1000000000,1.15,1.4999999723894153,165.481492906289,221.79839835123386
+f64 size =120000000
+precision 9, precision delta:0.00000000049
+base integer: 1799698671206, max:1200062309733499
+int_len:20,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 3 bits of dec
+0.7968751666666667base integer: 1799698671206
+total vector size:15000000
+bit packing length:20
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 3 bits of dec
+length for fixed:15000000
+Number of scan items:15000000
+Time: compress: 447.006598ms , decompress : 347.138891ms
+Performance:/home/cc/data//tpch_order_f64,1000000000,1.15,0.7968749608073018,256.0162378915351,329.6690474610458
+f32 size =307452800
+nan-count=0 vec-len=76863200
+precision 9, precision delta:0.00000000049
+base integer: 0, max:195228023652352
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000650506353base integer: 0
+total vector size:76863200
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:76863200
+Time: compress: 1.746411643s , decompress : 1.358718974s
+Performance:/home/cc/data//ts_gas,1000000000,1.15,1.4999999138079168,167.8927586209933,215.79875900893344
+f32 size =67108864
+nan-count=0 vec-len=16777216
+precision 9, precision delta:0.00000000049
+base integer: 302, max:323543924736
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187502980232239base integer: 302
+total vector size:16777216
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:16777216
+Number of scan items:16777216
+Time: compress: 459.045979ms , decompress : 349.226863ms
+Performance:/home/cc/data//turbulence,1000000000,1.15,1.2187497350388499,139.41964964669435,183.2620463790147
+f32 size =536870912
+nan-count=0 vec-len=134217728
+precision 9, precision delta:0.00000000049
+base integer: -597714496, max:2147483648
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+1.000000037252903base integer: -597714496
+total vector size:134217728
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:134217728
+Time: compress: 2.548748782s , decompress : 1.830676052s
+Performance:/home/cc/data//wave_f32,1000000000,1.15,0.9999999795109046,200.88289327680934,279.67811618256957
+f64 size =548458560
+precision 9, precision delta:0.00000000049
+base integer: 2147483648, max:35059022805799
+int_len:14,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write remaining 5 bits of dec
+0.7031250364658361base integer: 2147483648
+total vector size:68557320
+bit packing length:14
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read remaining 5 bits of dec
+length for fixed:68557320
+Number of scan items:68557320
+Time: compress: 1.924855106s , decompress : 1.575907291s
+Performance:/home/cc/data//astro_mhd_f64,1000000000,1.15,0.7031249967237727,271.7351920249212,331.9045954265212
+f64 size =671088640
+precision 9, precision delta:0.00000000049
+base integer: -14562008309, max:14577331380
+int_len:4,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 3 bits of dec
+0.5468750298023224base integer: -14562008309
+total vector size:83886080
+bit packing length:4
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 3 bits of dec
+length for fixed:83886080
+Number of scan items:83886080
+Time: compress: 2.100690271s , decompress : 1.724271657s
+Performance:/home/cc/data//astro_pt_f64,1000000000,1.15,0.5468750045401973,304.66177636898465,371.1712287131237
+f32 size =11625304
+nan-count=0 vec-len=2906326
+precision 9, precision delta:0.00000000049
+base integer: -212600881152, max:236223201280
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187517848995604base integer: -212600881152
+total vector size:2906326
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:2906326
+Number of scan items:2906326
+Time: compress: 78.032538ms , decompress : 67.470483ms
+Performance:/home/cc/data//citytemp_f32,1000000000,1.15,1.2187485349884541,142.07898004187243,164.32049862632007
+f64 size =100000000
+precision 9, precision delta:0.00000000049
+base integer: -9223097571801761792, max:9223098647556588544
+int_len:18446744073709551585,dec_len:31
+f64 size =22749792
+precision 9, precision delta:0.00000000049
+base integer: -9222856597745040384, max:9222897813712979968
+int_len:18446744073709551585,dec_len:31
+f32 size =4294967296
+nan-count=0 vec-len=1073741824
+precision 9, precision delta:0.00000000049
+base integer: 2145852800, max:6443461632
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+infbase integer: 2145852800
+total vector size:1073741824
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:1073741824
+Number of scan items:1073741824
+Time: compress: 26.499875912s , decompress : 20.722778656s
+Performance:/home/cc/data//miranda3d,1000000000,1.15,1.0312499972133082,154.56676262054128,197.6568923288655
+f64 size =266389432
+precision 9, precision delta:0.00000000049
+base integer: -5506469107120, max:6990548293687435264
+int_len:32,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write the 7th byte of dec
+write remaining 7 bits of dec
+0.9843750783627182base integer: -5506469107120
+total vector size:33298679
+bit packing length:32
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read the 7th byte of dec
+read remaining 7 bits of dec
+length for fixed:33298679
+Number of scan items:33298679
+Time: compress: 1.156930263s , decompress : 884.393411ms
+Performance:/home/cc/data//msg_bt,1000000000,1.15,0.9843749638100363,219.58867975809275,287.25766821023166
+f64 size =141840000
+precision 9, precision delta:0.00000000049
+base integer: 0, max:6073524204
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+0.5156251410039481base integer: 0
+total vector size:17730000
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:17730000
+Number of scan items:17730000
+Time: compress: 444.631644ms , decompress : 366.72545ms
+Performance:/home/cc/data//num_brain,1000000000,1.15,0.5156250283109428,304.2275475178872,368.85685082114236
+f64 size =159504744
+precision 9, precision delta:0.00000000049
+base integer: -1434044235, max:1529194679
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+0.5000001253881201base integer: -1434044235
+total vector size:19938093
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:19938093
+Time: compress: 364.376044ms , decompress : 273.105378ms
+Performance:/home/cc/data//num_control,1000000000,1.15,0.5000000282123216,417.46873804266266,556.985030377753
+f32 size =94281728
+nan-count=0 vec-len=23570432
+precision 9, precision delta:0.00000000049
+base integer: 0, max:4883660209651712
+int_len:22,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 5 bits of dec
+1.6562502121301808base integer: 0
+total vector size:23570432
+bit packing length:22
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 5 bits of dec
+length for fixed:23570432
+Number of scan items:23570432
+Time: compress: 700.627736ms , decompress : 594.869233ms
+Performance:/home/cc/data//rsim_f32,1000000000,1.15,1.6562496675523417,128.33361776003656,151.14934018432217
+f32 size =164998080
+nan-count=128132 vec-len=41121388
+precision 9, precision delta:0.00000000049
+base integer: -9223333004191989760, max:9223334103703617536
+int_len:18446744073709551585,dec_len:31
+f32 size =959776816
+nan-count=0 vec-len=239944204
+precision 9, precision delta:0.00000000049
+base integer: 0, max:225377335115776
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000208381778base integer: 0
+total vector size:239944204
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:239944204
+Time: compress: 5.527592465s , decompress : 4.118371839s
+Performance:/home/cc/data//tpch_lineitem_f32,1000000000,1.15,1.4999999723894153,165.5900890416441,222.25155091569454
+f64 size =120000000
+precision 9, precision delta:0.00000000049
+base integer: 1799698671206, max:1200062309733499
+int_len:20,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 3 bits of dec
+0.7968751666666667base integer: 1799698671206
+total vector size:15000000
+bit packing length:20
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 3 bits of dec
+length for fixed:15000000
+Number of scan items:15000000
+Time: compress: 434.899651ms , decompress : 355.619735ms
+Performance:/home/cc/data//tpch_order_f64,1000000000,1.15,0.7968749608073018,263.1433418479653,321.8070772496746
+f32 size =307452800
+nan-count=0 vec-len=76863200
+precision 9, precision delta:0.00000000049
+base integer: 0, max:195228023652352
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000650506353base integer: 0
+total vector size:76863200
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:76863200
+Time: compress: 1.886804499s , decompress : 1.303876395s
+Performance:/home/cc/data//ts_gas,1000000000,1.15,1.4999999138079168,155.40023812032013,224.87550933161214
+f32 size =67108864
+nan-count=0 vec-len=16777216
+precision 9, precision delta:0.00000000049
+base integer: 302, max:323543924736
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187502980232239base integer: 302
+total vector size:16777216
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:16777216
+Number of scan items:16777216
+Time: compress: 448.405235ms , decompress : 351.548222ms
+Performance:/home/cc/data//turbulence,1000000000,1.15,1.2187497350388499,142.7281052236239,182.05192220799742
+f32 size =536870912
+nan-count=0 vec-len=134217728
+precision 9, precision delta:0.00000000049
+base integer: -597714496, max:2147483648
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+1.000000037252903base integer: -597714496
+total vector size:134217728
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:134217728
+Time: compress: 2.612343632s , decompress : 1.972601311s
+Performance:/home/cc/data//wave_f32,1000000000,1.15,0.9999999795109046,195.99260345849623,259.5557585350828
+f64 size =548458560
+precision 9, precision delta:0.00000000049
+base integer: 2147483648, max:35059022805799
+int_len:14,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write remaining 5 bits of dec
+0.7031250364658361base integer: 2147483648
+total vector size:68557320
+bit packing length:14
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read remaining 5 bits of dec
+length for fixed:68557320
+Number of scan items:68557320
+Time: compress: 1.972312659s , decompress : 1.474466695s
+Performance:/home/cc/data//astro_mhd_f64,1000000000,1.15,0.7031249967237727,265.19673210141883,354.7390209780629
+f64 size =671088640
+precision 9, precision delta:0.00000000049
+base integer: -14562008309, max:14577331380
+int_len:4,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 3 bits of dec
+0.5468750298023224base integer: -14562008309
+total vector size:83886080
+bit packing length:4
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 3 bits of dec
+length for fixed:83886080
+Number of scan items:83886080
+Time: compress: 2.100040272s , decompress : 1.634790181s
+Performance:/home/cc/data//astro_pt_f64,1000000000,1.15,0.5468750045401973,304.75607448917714,391.48756641810525
+f32 size =11625304
+nan-count=0 vec-len=2906326
+precision 9, precision delta:0.00000000049
+base integer: -212600881152, max:236223201280
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187517848995604base integer: -212600881152
+total vector size:2906326
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:2906326
+Number of scan items:2906326
+Time: compress: 78.24136ms , decompress : 68.304892ms
+Performance:/home/cc/data//citytemp_f32,1000000000,1.15,1.2187485349884541,141.69977885249762,162.31316798097936
+f64 size =100000000
+precision 9, precision delta:0.00000000049
+base integer: -9223097571801761792, max:9223098647556588544
+int_len:18446744073709551585,dec_len:31
+f64 size =22749792
+precision 9, precision delta:0.00000000049
+base integer: -9222856597745040384, max:9222897813712979968
+int_len:18446744073709551585,dec_len:31
+f32 size =4294967296
+nan-count=0 vec-len=1073741824
+precision 9, precision delta:0.00000000049
+base integer: 2145852800, max:6443461632
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+infbase integer: 2145852800
+total vector size:1073741824
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:1073741824
+Number of scan items:1073741824
+Time: compress: 26.448980311s , decompress : 20.557692239s
+Performance:/home/cc/data//miranda3d,1000000000,1.15,1.0312499972133082,154.86419443778698,199.24415551826297
+f64 size =266389432
+precision 9, precision delta:0.00000000049
+base integer: -5506469107120, max:6990548293687435264
+int_len:32,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write the 7th byte of dec
+write remaining 7 bits of dec
+0.9843750783627182base integer: -5506469107120
+total vector size:33298679
+bit packing length:32
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read the 7th byte of dec
+read remaining 7 bits of dec
+length for fixed:33298679
+Number of scan items:33298679
+Time: compress: 1.16878554s , decompress : 896.991865ms
+Performance:/home/cc/data//msg_bt,1000000000,1.15,0.9843749638100363,217.3613381838665,283.223069168362
+f64 size =141840000
+precision 9, precision delta:0.00000000049
+base integer: 0, max:6073524204
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+0.5156251410039481base integer: 0
+total vector size:17730000
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:17730000
+Number of scan items:17730000
+Time: compress: 423.13104ms , decompress : 346.456954ms
+Performance:/home/cc/data//num_brain,1000000000,1.15,0.5156250283109428,319.6862952974717,390.4357901933361
+f64 size =159504744
+precision 9, precision delta:0.00000000049
+base integer: -1434044235, max:1529194679
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+0.5000001253881201base integer: -1434044235
+total vector size:19938093
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:19938093
+Time: compress: 366.442365ms , decompress : 275.315065ms
+Performance:/home/cc/data//num_control,1000000000,1.15,0.5000000282123216,415.11468593883166,552.514651756008
+f32 size =94281728
+nan-count=0 vec-len=23570432
+precision 9, precision delta:0.00000000049
+base integer: 0, max:4883660209651712
+int_len:22,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 5 bits of dec
+1.6562502121301808base integer: 0
+total vector size:23570432
+bit packing length:22
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 5 bits of dec
+length for fixed:23570432
+Number of scan items:23570432
+Time: compress: 699.534305ms , decompress : 594.92394ms
+Performance:/home/cc/data//rsim_f32,1000000000,1.15,1.6562496675523417,128.53421400670808,151.13544105134483
+f32 size =164998080
+nan-count=128132 vec-len=41121388
+precision 9, precision delta:0.00000000049
+base integer: -9223333004191989760, max:9223334103703617536
+int_len:18446744073709551585,dec_len:31
+f32 size =959776816
+nan-count=0 vec-len=239944204
+precision 9, precision delta:0.00000000049
+base integer: 0, max:225377335115776
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000208381778base integer: 0
+total vector size:239944204
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:239944204
+Time: compress: 5.439618409s , decompress : 4.151485501s
+Performance:/home/cc/data//tpch_lineitem_f32,1000000000,1.15,1.4999999723894153,168.26815038180945,220.47879686555385
+f64 size =120000000
+precision 9, precision delta:0.00000000049
+base integer: 1799698671206, max:1200062309733499
+int_len:20,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 3 bits of dec
+0.7968751666666667base integer: 1799698671206
+total vector size:15000000
+bit packing length:20
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 3 bits of dec
+length for fixed:15000000
+Number of scan items:15000000
+Time: compress: 438.045123ms , decompress : 339.521943ms
+Performance:/home/cc/data//tpch_order_f64,1000000000,1.15,0.7968749608073018,261.25378762099314,337.0649523310893
+f32 size =307452800
+nan-count=0 vec-len=76863200
+precision 9, precision delta:0.00000000049
+base integer: 0, max:195228023652352
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000650506353base integer: 0
+total vector size:76863200
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:76863200
+Time: compress: 1.741253999s , decompress : 1.356261259s
+Performance:/home/cc/data//ts_gas,1000000000,1.15,1.4999999138079168,168.39006175979,216.18981334560948
+f32 size =67108864
+nan-count=0 vec-len=16777216
+precision 9, precision delta:0.00000000049
+base integer: 302, max:323543924736
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187502980232239base integer: 302
+total vector size:16777216
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:16777216
+Number of scan items:16777216
+Time: compress: 451.576582ms , decompress : 341.481128ms
+Performance:/home/cc/data//turbulence,1000000000,1.15,1.2187497350388499,141.7257495516094,187.41893567806127
+f32 size =536870912
+nan-count=0 vec-len=134217728
+precision 9, precision delta:0.00000000049
+base integer: -597714496, max:2147483648
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+1.000000037252903base integer: -597714496
+total vector size:134217728
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:134217728
+Time: compress: 2.607072232s , decompress : 1.984571469s
+Performance:/home/cc/data//wave_f32,1000000000,1.15,0.9999999795109046,196.38889298096893,257.99021983415594
+f64 size =548458560
+precision 9, precision delta:0.00000000049
+base integer: 2147483648, max:35059022805799
+int_len:14,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write remaining 5 bits of dec
+0.7031250364658361base integer: 2147483648
+total vector size:68557320
+bit packing length:14
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read remaining 5 bits of dec
+length for fixed:68557320
+Number of scan items:68557320
+Time: compress: 1.926949549s , decompress : 1.568334191s
+Performance:/home/cc/data//astro_mhd_f64,1000000000,1.15,0.7031249967237727,271.43983718748626,333.5072810697016
+f64 size =671088640
+precision 9, precision delta:0.00000000049
+base integer: -14562008309, max:14577331380
+int_len:4,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 3 bits of dec
+0.5468750298023224base integer: -14562008309
+total vector size:83886080
+bit packing length:4
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 3 bits of dec
+length for fixed:83886080
+Number of scan items:83886080
+Time: compress: 2.103498309s , decompress : 1.635070049s
+Performance:/home/cc/data//astro_pt_f64,1000000000,1.15,0.5468750045401973,304.2550720509773,391.4205571530861
+f32 size =11625304
+nan-count=0 vec-len=2906326
+precision 9, precision delta:0.00000000049
+base integer: -212600881152, max:236223201280
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187517848995604base integer: -212600881152
+total vector size:2906326
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:2906326
+Number of scan items:2906326
+Time: compress: 77.831715ms , decompress : 67.999644ms
+Performance:/home/cc/data//citytemp_f32,1000000000,1.15,1.2187485349884541,142.44557516326927,163.0417860587425
+f64 size =100000000
+precision 9, precision delta:0.00000000049
+base integer: -9223097571801761792, max:9223098647556588544
+int_len:18446744073709551585,dec_len:31
+f64 size =22749792
+precision 9, precision delta:0.00000000049
+base integer: -9222856597745040384, max:9222897813712979968
+int_len:18446744073709551585,dec_len:31
+f32 size =4294967296
+nan-count=0 vec-len=1073741824
+precision 9, precision delta:0.00000000049
+base integer: 2145852800, max:6443461632
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+infbase integer: 2145852800
+total vector size:1073741824
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:1073741824
+Number of scan items:1073741824
+Time: compress: 26.54324027s , decompress : 20.606582634s
+Performance:/home/cc/data//miranda3d,1000000000,1.15,1.0312499972133082,154.3142430200329,198.77143640526182
+f64 size =266389432
+precision 9, precision delta:0.00000000049
+base integer: -5506469107120, max:6990548293687435264
+int_len:32,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write the 7th byte of dec
+write remaining 7 bits of dec
+0.9843750783627182base integer: -5506469107120
+total vector size:33298679
+bit packing length:32
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read the 7th byte of dec
+read remaining 7 bits of dec
+length for fixed:33298679
+Number of scan items:33298679
+Time: compress: 1.168874829s , decompress : 896.723111ms
+Performance:/home/cc/data//msg_bt,1000000000,1.15,0.9843749638100363,217.3447342019485,283.30795304366035
+f64 size =141840000
+precision 9, precision delta:0.00000000049
+base integer: 0, max:6073524204
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+0.5156251410039481base integer: 0
+total vector size:17730000
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:17730000
+Number of scan items:17730000
+Time: compress: 423.960721ms , decompress : 348.29447ms
+Performance:/home/cc/data//num_brain,1000000000,1.15,0.5156250283109428,319.0606768568221,388.37594694789817
+f64 size =159504744
+precision 9, precision delta:0.00000000049
+base integer: -1434044235, max:1529194679
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+0.5000001253881201base integer: -1434044235
+total vector size:19938093
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:19938093
+Time: compress: 365.990774ms , decompress : 274.543811ms
+Performance:/home/cc/data//num_control,1000000000,1.15,0.5000000282123216,415.62689026051163,554.0667870369793
+f32 size =94281728
+nan-count=0 vec-len=23570432
+precision 9, precision delta:0.00000000049
+base integer: 0, max:4883660209651712
+int_len:22,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 5 bits of dec
+1.6562502121301808base integer: 0
+total vector size:23570432
+bit packing length:22
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 5 bits of dec
+length for fixed:23570432
+Number of scan items:23570432
+Time: compress: 698.864665ms , decompress : 592.578293ms
+Performance:/home/cc/data//rsim_f32,1000000000,1.15,1.6562496675523417,128.65737326110744,151.73369177717046
+f32 size =164998080
+nan-count=128132 vec-len=41121388
+precision 9, precision delta:0.00000000049
+base integer: -9223333004191989760, max:9223334103703617536
+int_len:18446744073709551585,dec_len:31
+f32 size =959776816
+nan-count=0 vec-len=239944204
+precision 9, precision delta:0.00000000049
+base integer: 0, max:225377335115776
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000208381778base integer: 0
+total vector size:239944204
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:239944204
+Time: compress: 5.529620226s , decompress : 4.127483452s
+Performance:/home/cc/data//tpch_lineitem_f32,1000000000,1.15,1.4999999723894153,165.52936568075825,221.76092020956477
+f64 size =120000000
+precision 9, precision delta:0.00000000049
+base integer: 1799698671206, max:1200062309733499
+int_len:20,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 3 bits of dec
+0.7968751666666667base integer: 1799698671206
+total vector size:15000000
+bit packing length:20
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 3 bits of dec
+length for fixed:15000000
+Number of scan items:15000000
+Time: compress: 436.272961ms , decompress : 340.324337ms
+Performance:/home/cc/data//tpch_order_f64,1000000000,1.15,0.7968749608073018,262.3150132209404,336.2702430906486
+f32 size =307452800
+nan-count=0 vec-len=76863200
+precision 9, precision delta:0.00000000049
+base integer: 0, max:195228023652352
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000650506353base integer: 0
+total vector size:76863200
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:76863200
+Time: compress: 1.746745882s , decompress : 1.363896862s
+Performance:/home/cc/data//ts_gas,1000000000,1.15,1.4999999138079168,167.86063242088198,214.979502189874
+f32 size =67108864
+nan-count=0 vec-len=16777216
+precision 9, precision delta:0.00000000049
+base integer: 302, max:323543924736
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187502980232239base integer: 302
+total vector size:16777216
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:16777216
+Number of scan items:16777216
+Time: compress: 448.195089ms , decompress : 352.973729ms
+Performance:/home/cc/data//turbulence,1000000000,1.15,1.2187497350388499,142.79502639508797,181.31669386619933
+f32 size =536870912
+nan-count=0 vec-len=134217728
+precision 9, precision delta:0.00000000049
+base integer: -597714496, max:2147483648
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+1.000000037252903base integer: -597714496
+total vector size:134217728
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:134217728
+Time: compress: 2.610094442s , decompress : 1.970230746s
+Performance:/home/cc/data//wave_f32,1000000000,1.15,0.9999999795109046,196.1614956628086,259.86805383246406
+f64 size =548458560
+precision 9, precision delta:0.00000000049
+base integer: 2147483648, max:35059022805799
+int_len:14,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write remaining 5 bits of dec
+0.7031250364658361base integer: 2147483648
+total vector size:68557320
+bit packing length:14
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read remaining 5 bits of dec
+length for fixed:68557320
+Number of scan items:68557320
+Time: compress: 1.985571472s , decompress : 1.623776315s
+Performance:/home/cc/data//astro_mhd_f64,1000000000,1.15,0.7031249967237727,263.4258596202575,322.12002787407334
+f64 size =671088640
+precision 9, precision delta:0.00000000049
+base integer: -14562008309, max:14577331380
+int_len:4,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 3 bits of dec
+0.5468750298023224base integer: -14562008309
+total vector size:83886080
+bit packing length:4
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 3 bits of dec
+length for fixed:83886080
+Number of scan items:83886080
+Time: compress: 2.141610578s , decompress : 1.937428851s
+Performance:/home/cc/data//astro_pt_f64,1000000000,1.15,0.5468750045401973,298.8405250414783,330.33472647708794
+f32 size =11625304
+nan-count=0 vec-len=2906326
+precision 9, precision delta:0.00000000049
+base integer: -212600881152, max:236223201280
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187517848995604base integer: -212600881152
+total vector size:2906326
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:2906326
+Number of scan items:2906326
+Time: compress: 82.226268ms , decompress : 71.325219ms
+Performance:/home/cc/data//citytemp_f32,1000000000,1.15,1.2187485349884541,134.83262318458443,155.43987897350377
+f64 size =100000000
+precision 9, precision delta:0.00000000049
+base integer: -9223097571801761792, max:9223098647556588544
+int_len:18446744073709551585,dec_len:31
+f64 size =22749792
+precision 9, precision delta:0.00000000049
+base integer: -9222856597745040384, max:9222897813712979968
+int_len:18446744073709551585,dec_len:31
+f32 size =4294967296
+nan-count=0 vec-len=1073741824
+precision 9, precision delta:0.00000000049
+base integer: 2145852800, max:6443461632
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+infbase integer: 2145852800
+total vector size:1073741824
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:1073741824
+Number of scan items:1073741824
+Time: compress: 26.869871121s , decompress : 20.664642909s
+Performance:/home/cc/data//miranda3d,1000000000,1.15,1.0312499972133082,152.4383950752446,198.21295957550697
+f64 size =266389432
+precision 9, precision delta:0.00000000049
+base integer: -5506469107120, max:6990548293687435264
+int_len:32,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write the 7th byte of dec
+write remaining 7 bits of dec
+0.9843750783627182base integer: -5506469107120
+total vector size:33298679
+bit packing length:32
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read the 7th byte of dec
+read remaining 7 bits of dec
+length for fixed:33298679
+Number of scan items:33298679
+Time: compress: 1.172243999s , decompress : 899.077596ms
+Performance:/home/cc/data//msg_bt,1000000000,1.15,0.9843749638100363,216.72005934009735,282.5660322920037
+f64 size =141840000
+precision 9, precision delta:0.00000000049
+base integer: 0, max:6073524204
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+0.5156251410039481base integer: 0
+total vector size:17730000
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:17730000
+Number of scan items:17730000
+Time: compress: 439.443945ms , decompress : 372.133751ms
+Performance:/home/cc/data//num_brain,1000000000,1.15,0.5156250283109428,307.81899749003554,363.4961737264361
+f64 size =159504744
+precision 9, precision delta:0.00000000049
+base integer: -1434044235, max:1529194679
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+0.5000001253881201base integer: -1434044235
+total vector size:19938093
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:19938093
+Time: compress: 383.295391ms , decompress : 287.757259ms
+Performance:/home/cc/data//num_control,1000000000,1.15,0.5000000282123216,396.8626047518993,528.6247436130107
+f32 size =94281728
+nan-count=0 vec-len=23570432
+precision 9, precision delta:0.00000000049
+base integer: 0, max:4883660209651712
+int_len:22,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 5 bits of dec
+1.6562502121301808base integer: 0
+total vector size:23570432
+bit packing length:22
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 5 bits of dec
+length for fixed:23570432
+Number of scan items:23570432
+Time: compress: 722.028509ms , decompress : 648.794068ms
+Performance:/home/cc/data//rsim_f32,1000000000,1.15,1.6562496675523417,124.52983634736756,138.5864891475916
+f32 size =164998080
+nan-count=128132 vec-len=41121388
+precision 9, precision delta:0.00000000049
+base integer: -9223333004191989760, max:9223334103703617536
+int_len:18446744073709551585,dec_len:31
+f32 size =959776816
+nan-count=0 vec-len=239944204
+precision 9, precision delta:0.00000000049
+base integer: 0, max:225377335115776
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000208381778base integer: 0
+total vector size:239944204
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:239944204
+Time: compress: 5.635869497s , decompress : 4.157916255s
+Performance:/home/cc/data//tpch_lineitem_f32,1000000000,1.15,1.4999999723894153,162.40875147171118,220.13779795698915
+f64 size =120000000
+precision 9, precision delta:0.00000000049
+base integer: 1799698671206, max:1200062309733499
+int_len:20,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 3 bits of dec
+0.7968751666666667base integer: 1799698671206
+total vector size:15000000
+bit packing length:20
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 3 bits of dec
+length for fixed:15000000
+Number of scan items:15000000
+Time: compress: 453.485739ms , decompress : 354.085466ms
+Performance:/home/cc/data//tpch_order_f64,1000000000,1.15,0.7968749608073018,252.35842649652497,323.2014824710535
+f32 size =307452800
+nan-count=0 vec-len=76863200
+precision 9, precision delta:0.00000000049
+base integer: 0, max:195228023652352
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000650506353base integer: 0
+total vector size:76863200
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:76863200
+Time: compress: 1.791653101s , decompress : 1.398550652s
+Performance:/home/cc/data//ts_gas,1000000000,1.15,1.4999999138079168,163.65325869580337,209.6526629277145
+f32 size =67108864
+nan-count=0 vec-len=16777216
+precision 9, precision delta:0.00000000049
+base integer: 302, max:323543924736
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187502980232239base integer: 302
+total vector size:16777216
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:16777216
+Number of scan items:16777216
+Time: compress: 468.416336ms , decompress : 357.118685ms
+Performance:/home/cc/data//turbulence,1000000000,1.15,1.2187497350388499,136.63065236030496,179.21221221987813
+f32 size =536870912
+nan-count=0 vec-len=134217728
+precision 9, precision delta:0.00000000049
+base integer: -597714496, max:2147483648
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+1.000000037252903base integer: -597714496
+total vector size:134217728
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:134217728
+Time: compress: 2.634599024s , decompress : 2.028241493s
+Performance:/home/cc/data//wave_f32,1000000000,1.15,0.9999999795109046,194.33698445183353,252.43543795497325
+f64 size =548458560
+precision 9, precision delta:0.00000000049
+base integer: 2147483648, max:35059022805799
+int_len:14,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write remaining 5 bits of dec
+0.7031250364658361base integer: 2147483648
+total vector size:68557320
+bit packing length:14
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read remaining 5 bits of dec
+length for fixed:68557320
+Number of scan items:68557320
+Time: compress: 1.93666821s , decompress : 1.643244619s
+Performance:/home/cc/data//astro_mhd_f64,1000000000,1.15,0.7031249967237727,270.07768762263106,318.3037180230438
+f64 size =671088640
+precision 9, precision delta:0.00000000049
+base integer: -14562008309, max:14577331380
+int_len:4,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 3 bits of dec
+0.5468750298023224base integer: -14562008309
+total vector size:83886080
+bit packing length:4
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 3 bits of dec
+length for fixed:83886080
+Number of scan items:83886080
+Time: compress: 2.165404051s , decompress : 1.775728105s
+Performance:/home/cc/data//astro_pt_f64,1000000000,1.15,0.5468750045401973,295.5568635185415,360.41555447696413
+f32 size =11625304
+nan-count=0 vec-len=2906326
+precision 9, precision delta:0.00000000049
+base integer: -212600881152, max:236223201280
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187517848995604base integer: -212600881152
+total vector size:2906326
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:2906326
+Number of scan items:2906326
+Time: compress: 78.755773ms , decompress : 69.455659ms
+Performance:/home/cc/data//citytemp_f32,1000000000,1.15,1.2187485349884541,140.77423135848915,159.6239034909834
+f64 size =100000000
+precision 9, precision delta:0.00000000049
+base integer: -9223097571801761792, max:9223098647556588544
+int_len:18446744073709551585,dec_len:31
+f64 size =22749792
+precision 9, precision delta:0.00000000049
+base integer: -9222856597745040384, max:9222897813712979968
+int_len:18446744073709551585,dec_len:31
+f32 size =4294967296
+nan-count=0 vec-len=1073741824
+precision 9, precision delta:0.00000000049
+base integer: 2145852800, max:6443461632
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+infbase integer: 2145852800
+total vector size:1073741824
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:1073741824
+Number of scan items:1073741824
+Time: compress: 26.260523547s , decompress : 21.678025308s
+Performance:/home/cc/data//miranda3d,1000000000,1.15,1.0312499972133082,155.97556622331052,188.94710064077316
+f64 size =266389432
+precision 9, precision delta:0.00000000049
+base integer: -5506469107120, max:6990548293687435264
+int_len:32,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write the 7th byte of dec
+write remaining 7 bits of dec
+0.9843750783627182base integer: -5506469107120
+total vector size:33298679
+bit packing length:32
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read the 7th byte of dec
+read remaining 7 bits of dec
+length for fixed:33298679
+Number of scan items:33298679
+Time: compress: 1.170521378s , decompress : 960.295224ms
+Performance:/home/cc/data//msg_bt,1000000000,1.15,0.9843749638100363,217.03899971347045,264.55279863430104
+f64 size =141840000
+precision 9, precision delta:0.00000000049
+base integer: 0, max:6073524204
+int_len:2,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 1 bits of dec
+0.5156251410039481base integer: 0
+total vector size:17730000
+bit packing length:2
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 1 bits of dec
+length for fixed:17730000
+Number of scan items:17730000
+Time: compress: 423.550476ms , decompress : 346.985457ms
+Performance:/home/cc/data//num_brain,1000000000,1.15,0.5156250283109428,319.36971451536346,389.84110680744266
+f64 size =159504744
+precision 9, precision delta:0.00000000049
+base integer: -1434044235, max:1529194679
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+0.5000001253881201base integer: -1434044235
+total vector size:19938093
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:19938093
+Time: compress: 363.241415ms , decompress : 272.643628ms
+Performance:/home/cc/data//num_control,1000000000,1.15,0.5000000282123216,418.7727527205501,557.9283417606874
+f32 size =94281728
+nan-count=0 vec-len=23570432
+precision 9, precision delta:0.00000000049
+base integer: 0, max:4883660209651712
+int_len:22,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 5 bits of dec
+1.6562502121301808base integer: 0
+total vector size:23570432
+bit packing length:22
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 5 bits of dec
+length for fixed:23570432
+Number of scan items:23570432
+Time: compress: 699.384876ms , decompress : 592.495282ms
+Performance:/home/cc/data//rsim_f32,1000000000,1.15,1.6562496675523417,128.56167633785637,151.75495028482575
+f32 size =164998080
+nan-count=128132 vec-len=41121388
+precision 9, precision delta:0.00000000049
+base integer: -9223333004191989760, max:9223334103703617536
+int_len:18446744073709551585,dec_len:31
+f32 size =959776816
+nan-count=0 vec-len=239944204
+precision 9, precision delta:0.00000000049
+base integer: 0, max:225377335115776
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000208381778base integer: 0
+total vector size:239944204
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:239944204
+Time: compress: 5.448858566s , decompress : 4.471844968s
+Performance:/home/cc/data//tpch_lineitem_f32,1000000000,1.15,1.4999999723894153,167.9828017883757,204.683868742131
+f64 size =120000000
+precision 9, precision delta:0.00000000049
+base integer: 1799698671206, max:1200062309733499
+int_len:20,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+write remaining 3 bits of dec
+0.7968751666666667base integer: 1799698671206
+total vector size:15000000
+bit packing length:20
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+read remaining 3 bits of dec
+length for fixed:15000000
+Number of scan items:15000000
+Time: compress: 436.023731ms , decompress : 339.420664ms
+Performance:/home/cc/data//tpch_order_f64,1000000000,1.15,0.7968749608073018,262.46495178184193,337.1655284153643
+f32 size =307452800
+nan-count=0 vec-len=76863200
+precision 9, precision delta:0.00000000049
+base integer: 0, max:195228023652352
+int_len:17,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write the 5th byte of dec
+write the 6th byte of dec
+1.5000000650506353base integer: 0
+total vector size:76863200
+bit packing length:17
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read the 5th byte of dec
+read the 6th byte of dec
+Number of scan items:76863200
+Time: compress: 1.745993582s , decompress : 1.438393998s
+Performance:/home/cc/data//ts_gas,1000000000,1.15,1.4999999138079168,167.93295889165032,203.84530861417798
+f32 size =67108864
+nan-count=0 vec-len=16777216
+precision 9, precision delta:0.00000000049
+base integer: 302, max:323543924736
+int_len:8,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+write remaining 7 bits of dec
+1.2187502980232239base integer: 302
+total vector size:16777216
+bit packing length:8
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+read remaining 7 bits of dec
+length for fixed:16777216
+Number of scan items:16777216
+Time: compress: 449.218299ms , decompress : 339.76902ms
+Performance:/home/cc/data//turbulence,1000000000,1.15,1.2187497350388499,142.46977406390965,188.36334626359934
+f32 size =536870912
+nan-count=0 vec-len=134217728
+precision 9, precision delta:0.00000000049
+base integer: -597714496, max:2147483648
+int_len:1,dec_len:31
+write the 1th byte of dec
+write the 2th byte of dec
+write the 3th byte of dec
+write the 4th byte of dec
+1.000000037252903base integer: -597714496
+total vector size:134217728
+bit packing length:1
+Scale for decimal:2147483648
+read the 1th byte of dec
+read the 2th byte of dec
+read the 3th byte of dec
+read the 4th byte of dec
+Number of scan items:134217728
+Time: compress: 2.613964417s , decompress : 1.975595891s
+Performance:/home/cc/data//wave_f32,1000000000,1.15,0.9999999795109046,195.8710785174027,259.1623276280158

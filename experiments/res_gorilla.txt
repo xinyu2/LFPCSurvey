@@ -1,0 +1,394 @@
+=== RUN   TestCompress_XC2_astro_mhd_f64
+astro_mhd_f64: Comp-bytes: 29494843	cr:0.053777956663798004	Comp-time: 2.610743457	Decoding-time: 0.727837578
+--- PASS: TestCompress_XC2_astro_mhd_f64 (129.57s)
+=== RUN   TestCompress_XC2_astro_pt_f64
+astro_pt_f64: Comp-bytes: 649995510	cr:0.9685697106787784	Comp-time: 16.804574402	Decoding-time: 6.023730864
+--- PASS: TestCompress_XC2_astro_pt_f64 (196.39s)
+=== RUN   TestCompress_XC2_citytemp_f32
+citytemp_f32: Comp-bytes: 421370	cr:0.03625	Comp-time: 0.085294088	Decoding-time: 0.026065692
+--- PASS: TestCompress_XC2_citytemp_f32 (5.45s)
+=== RUN   TestCompress_XC2_h3d_temp
+h3d_temp: Comp-bytes: 3625000	cr:0.03625	Comp-time: 0.732439124	Decoding-time: 0.225731025
+--- PASS: TestCompress_XC2_h3d_temp (46.94s)
+=== RUN   TestCompress_XC2_hdr_night
+hdr_night: Comp-bytes: 23460520	cr:1.0315036932817447	Comp-time: 0.506376199	Decoding-time: 0.320470642
+--- PASS: TestCompress_XC2_hdr_night (6.89s)
+=== RUN   TestCompress_XC2_miranda3d
+miranda3d: Comp-bytes: 155692445	cr:0.03625	Comp-time: 31.434073067	Decoding-time: 9.788674011
+--- PASS: TestCompress_XC2_miranda3d (2015.98s)
+=== RUN   TestCompress_XC2_msg_bt
+msg_bt: Comp-bytes: 245342238	cr:0.9210096627425071	Comp-time: 6.129987636	Decoding-time: 3.055822556
+--- PASS: TestCompress_XC2_msg_bt (78.94s)
+=== RUN   TestCompress_XC2_num_brain
+num_brain: Comp-bytes: 127838773	cr:0.9012885857304005	Comp-time: 3.539319472	Decoding-time: 1.387890234
+--- PASS: TestCompress_XC2_num_brain (40.99s)
+=== RUN   TestCompress_XC2_num_control
+num_control: Comp-bytes: 162811363	cr:1.0207352981743405	Comp-time: 3.8794815160000002	Decoding-time: 2.774895742
+--- PASS: TestCompress_XC2_num_control (53.24s)
+=== RUN   TestCompress_XC2_rsim_f32
+rsim_f32: Comp-bytes: 3417650	cr:0.03625	Comp-time: 0.701301422	Decoding-time: 0.226384717
+--- PASS: TestCompress_XC2_rsim_f32 (44.40s)
+=== RUN   TestCompress_XC2_spitzer_irac
+spitzer_irac: Comp-bytes: 5981105	cr:0.03625	Comp-time: 1.218783838	Decoding-time: 0.3876789
+--- PASS: TestCompress_XC2_spitzer_irac (77.70s)
+=== RUN   TestCompress_XC2_ts_gas
+ts_gas: Comp-bytes: 11145135	cr:0.03625	Comp-time: 2.287784302	Decoding-time: 0.731671355
+--- PASS: TestCompress_XC2_ts_gas (145.48s)
+=== RUN   TestCompress_XC2_turbulence
+turbulence: Comp-bytes: 2432665	cr:0.03625	Comp-time: 0.508781338	Decoding-time: 0.164470485
+--- PASS: TestCompress_XC2_turbulence (32.04s)
+=== RUN   TestCompress_XC2_wave_f32
+wave_f32: Comp-bytes: 19461465	cr:0.03625	Comp-time: 3.985269455	Decoding-time: 1.259539912
+--- PASS: TestCompress_XC2_wave_f32 (254.03s)
+PASS
+ok  	github.com/influxdata/influxdb/v2/tsdb/engine/tsm1	3128.094s
+=== RUN   TestCompress_XC2_astro_mhd_f64
+astro_mhd_f64: Comp-bytes: 29494843	cr:0.053777956663798004	Comp-time: 2.566419784	Decoding-time: 0.682487863
+--- PASS: TestCompress_XC2_astro_mhd_f64 (127.17s)
+=== RUN   TestCompress_XC2_astro_pt_f64
+astro_pt_f64: Comp-bytes: 649995510	cr:0.9685697106787784	Comp-time: 16.722376792	Decoding-time: 5.73715416
+--- PASS: TestCompress_XC2_astro_pt_f64 (192.79s)
+=== RUN   TestCompress_XC2_citytemp_f32
+citytemp_f32: Comp-bytes: 421370	cr:0.03625	Comp-time: 0.082638596	Decoding-time: 0.024813529
+--- PASS: TestCompress_XC2_citytemp_f32 (5.29s)
+=== RUN   TestCompress_XC2_h3d_temp
+h3d_temp: Comp-bytes: 94001082	cr:0.94001082	Comp-time: 2.083599285	Decoding-time: 0.874119996
+--- PASS: TestCompress_XC2_h3d_temp (28.59s)
+=== RUN   TestCompress_XC2_hdr_night
+hdr_night: Comp-bytes: 23460520	cr:1.0315036932817447	Comp-time: 0.512858353	Decoding-time: 0.313125204
+--- PASS: TestCompress_XC2_hdr_night (6.85s)
+=== RUN   TestCompress_XC2_miranda3d
+miranda3d: Comp-bytes: 155692445	cr:0.03625	Comp-time: 30.721090503	Decoding-time: 9.212055641
+--- PASS: TestCompress_XC2_miranda3d (1974.82s)
+=== RUN   TestCompress_XC2_msg_bt
+msg_bt: Comp-bytes: 245342238	cr:0.9210096627425071	Comp-time: 6.048635129	Decoding-time: 2.9319596199999998
+--- PASS: TestCompress_XC2_msg_bt (76.65s)
+=== RUN   TestCompress_XC2_num_brain
+num_brain: Comp-bytes: 127838773	cr:0.9012885857304005	Comp-time: 3.582955905	Decoding-time: 1.308755802
+--- PASS: TestCompress_XC2_num_brain (40.69s)
+=== RUN   TestCompress_XC2_num_control
+num_control: Comp-bytes: 162811363	cr:1.0207352981743405	Comp-time: 3.8031339920000002	Decoding-time: 2.516464892
+--- PASS: TestCompress_XC2_num_control (51.07s)
+=== RUN   TestCompress_XC2_rsim_f32
+rsim_f32: Comp-bytes: 3417650	cr:0.03625	Comp-time: 0.668002078	Decoding-time: 0.199054869
+--- PASS: TestCompress_XC2_rsim_f32 (42.79s)
+=== RUN   TestCompress_XC2_spitzer_irac
+spitzer_irac: Comp-bytes: 5981105	cr:0.03625	Comp-time: 1.178213763	Decoding-time: 0.355188082
+--- PASS: TestCompress_XC2_spitzer_irac (75.56s)
+=== RUN   TestCompress_XC2_tpch_lineitem
+tpch_lineitem_f32: Comp-bytes: 34791880	cr:0.03625	Comp-time: 6.858978336	Decoding-time: 2.054144234
+--- PASS: TestCompress_XC2_tpch_lineitem (439.26s)
+=== RUN   TestCompress_XC2_tpch_order
+tpch_order_f64: Comp-bytes: 110847987	cr:0.923733225	Comp-time: 2.61232045	Decoding-time: 1.275984195
+--- PASS: TestCompress_XC2_tpch_order (34.21s)
+=== RUN   TestCompress_XC2_ts_gas
+ts_gas: Comp-bytes: 11145135	cr:0.03625	Comp-time: 2.192541568	Decoding-time: 0.66414482
+--- PASS: TestCompress_XC2_ts_gas (140.29s)
+=== RUN   TestCompress_XC2_turbulence
+turbulence: Comp-bytes: 2432665	cr:0.03625	Comp-time: 0.477320823	Decoding-time: 0.143504814
+--- PASS: TestCompress_XC2_turbulence (30.42s)
+=== RUN   TestCompress_XC2_wave_f32
+wave_f32: Comp-bytes: 19461465	cr:0.03625	Comp-time: 3.837445394	Decoding-time: 1.177908663
+--- PASS: TestCompress_XC2_wave_f32 (246.09s)
+PASS
+ok  	github.com/influxdata/influxdb/v2/tsdb/engine/tsm1	3512.566s
+=== RUN   TestCompress_XC2_astro_mhd_f64
+astro_mhd_f64: Comp-bytes: 29494843	cr:0.053777956663798004	Comp-time: 2.566419784	Decoding-time: 0.682487863
+--- PASS: TestCompress_XC2_astro_mhd_f64 (127.17s)
+=== RUN   TestCompress_XC2_astro_pt_f64
+astro_pt_f64: Comp-bytes: 649995510	cr:0.9685697106787784	Comp-time: 16.722376792	Decoding-time: 5.73715416
+--- PASS: TestCompress_XC2_astro_pt_f64 (192.79s)
+=== RUN   TestCompress_XC2_citytemp_f32
+citytemp_f32: Comp-bytes: 421370	cr:0.03625	Comp-time: 0.082638596	Decoding-time: 0.024813529
+--- PASS: TestCompress_XC2_citytemp_f32 (5.29s)
+=== RUN   TestCompress_XC2_h3d_temp
+h3d_temp: Comp-bytes: 94001082	cr:0.94001082	Comp-time: 2.083599285	Decoding-time: 0.874119996
+--- PASS: TestCompress_XC2_h3d_temp (28.59s)
+=== RUN   TestCompress_XC2_hdr_night
+hdr_night: Comp-bytes: 23460520	cr:1.0315036932817447	Comp-time: 0.512858353	Decoding-time: 0.313125204
+--- PASS: TestCompress_XC2_hdr_night (6.85s)
+=== RUN   TestCompress_XC2_miranda3d
+miranda3d: Comp-bytes: 155692445	cr:0.03625	Comp-time: 30.721090503	Decoding-time: 9.212055641
+--- PASS: TestCompress_XC2_miranda3d (1974.82s)
+=== RUN   TestCompress_XC2_msg_bt
+msg_bt: Comp-bytes: 245342238	cr:0.9210096627425071	Comp-time: 6.048635129	Decoding-time: 2.9319596199999998
+--- PASS: TestCompress_XC2_msg_bt (76.65s)
+=== RUN   TestCompress_XC2_num_brain
+num_brain: Comp-bytes: 127838773	cr:0.9012885857304005	Comp-time: 3.582955905	Decoding-time: 1.308755802
+--- PASS: TestCompress_XC2_num_brain (40.69s)
+=== RUN   TestCompress_XC2_num_control
+num_control: Comp-bytes: 162811363	cr:1.0207352981743405	Comp-time: 3.8031339920000002	Decoding-time: 2.516464892
+--- PASS: TestCompress_XC2_num_control (51.07s)
+=== RUN   TestCompress_XC2_rsim_f32
+rsim_f32: Comp-bytes: 3417650	cr:0.03625	Comp-time: 0.668002078	Decoding-time: 0.199054869
+--- PASS: TestCompress_XC2_rsim_f32 (42.79s)
+=== RUN   TestCompress_XC2_spitzer_irac
+spitzer_irac: Comp-bytes: 5981105	cr:0.03625	Comp-time: 1.178213763	Decoding-time: 0.355188082
+--- PASS: TestCompress_XC2_spitzer_irac (75.56s)
+=== RUN   TestCompress_XC2_tpch_lineitem
+tpch_lineitem_f32: Comp-bytes: 34791880	cr:0.03625	Comp-time: 6.858978336	Decoding-time: 2.054144234
+--- PASS: TestCompress_XC2_tpch_lineitem (439.26s)
+=== RUN   TestCompress_XC2_tpch_order
+tpch_order_f64: Comp-bytes: 110847987	cr:0.923733225	Comp-time: 2.61232045	Decoding-time: 1.275984195
+--- PASS: TestCompress_XC2_tpch_order (34.21s)
+=== RUN   TestCompress_XC2_ts_gas
+ts_gas: Comp-bytes: 11145135	cr:0.03625	Comp-time: 2.192541568	Decoding-time: 0.66414482
+--- PASS: TestCompress_XC2_ts_gas (140.29s)
+=== RUN   TestCompress_XC2_turbulence
+turbulence: Comp-bytes: 2432665	cr:0.03625	Comp-time: 0.477320823	Decoding-time: 0.143504814
+--- PASS: TestCompress_XC2_turbulence (30.42s)
+=== RUN   TestCompress_XC2_wave_f32
+wave_f32: Comp-bytes: 19461465	cr:0.03625	Comp-time: 3.837445394	Decoding-time: 1.177908663
+--- PASS: TestCompress_XC2_wave_f32 (246.09s)
+PASS
+ok  	github.com/influxdata/influxdb/v2/tsdb/engine/tsm1	(cached)
+=== RUN   TestCompress_XC2_astro_mhd_f64
+astro_mhd_f64: Comp-bytes: 29494843	cr:0.053777956663798004	Comp-time: 2.566419784	Decoding-time: 0.682487863
+--- PASS: TestCompress_XC2_astro_mhd_f64 (127.17s)
+=== RUN   TestCompress_XC2_astro_pt_f64
+astro_pt_f64: Comp-bytes: 649995510	cr:0.9685697106787784	Comp-time: 16.722376792	Decoding-time: 5.73715416
+--- PASS: TestCompress_XC2_astro_pt_f64 (192.79s)
+=== RUN   TestCompress_XC2_citytemp_f32
+citytemp_f32: Comp-bytes: 421370	cr:0.03625	Comp-time: 0.082638596	Decoding-time: 0.024813529
+--- PASS: TestCompress_XC2_citytemp_f32 (5.29s)
+=== RUN   TestCompress_XC2_h3d_temp
+h3d_temp: Comp-bytes: 94001082	cr:0.94001082	Comp-time: 2.083599285	Decoding-time: 0.874119996
+--- PASS: TestCompress_XC2_h3d_temp (28.59s)
+=== RUN   TestCompress_XC2_hdr_night
+hdr_night: Comp-bytes: 23460520	cr:1.0315036932817447	Comp-time: 0.512858353	Decoding-time: 0.313125204
+--- PASS: TestCompress_XC2_hdr_night (6.85s)
+=== RUN   TestCompress_XC2_miranda3d
+miranda3d: Comp-bytes: 155692445	cr:0.03625	Comp-time: 30.721090503	Decoding-time: 9.212055641
+--- PASS: TestCompress_XC2_miranda3d (1974.82s)
+=== RUN   TestCompress_XC2_msg_bt
+msg_bt: Comp-bytes: 245342238	cr:0.9210096627425071	Comp-time: 6.048635129	Decoding-time: 2.9319596199999998
+--- PASS: TestCompress_XC2_msg_bt (76.65s)
+=== RUN   TestCompress_XC2_num_brain
+num_brain: Comp-bytes: 127838773	cr:0.9012885857304005	Comp-time: 3.582955905	Decoding-time: 1.308755802
+--- PASS: TestCompress_XC2_num_brain (40.69s)
+=== RUN   TestCompress_XC2_num_control
+num_control: Comp-bytes: 162811363	cr:1.0207352981743405	Comp-time: 3.8031339920000002	Decoding-time: 2.516464892
+--- PASS: TestCompress_XC2_num_control (51.07s)
+=== RUN   TestCompress_XC2_rsim_f32
+rsim_f32: Comp-bytes: 3417650	cr:0.03625	Comp-time: 0.668002078	Decoding-time: 0.199054869
+--- PASS: TestCompress_XC2_rsim_f32 (42.79s)
+=== RUN   TestCompress_XC2_spitzer_irac
+spitzer_irac: Comp-bytes: 5981105	cr:0.03625	Comp-time: 1.178213763	Decoding-time: 0.355188082
+--- PASS: TestCompress_XC2_spitzer_irac (75.56s)
+=== RUN   TestCompress_XC2_tpch_lineitem
+tpch_lineitem_f32: Comp-bytes: 34791880	cr:0.03625	Comp-time: 6.858978336	Decoding-time: 2.054144234
+--- PASS: TestCompress_XC2_tpch_lineitem (439.26s)
+=== RUN   TestCompress_XC2_tpch_order
+tpch_order_f64: Comp-bytes: 110847987	cr:0.923733225	Comp-time: 2.61232045	Decoding-time: 1.275984195
+--- PASS: TestCompress_XC2_tpch_order (34.21s)
+=== RUN   TestCompress_XC2_ts_gas
+ts_gas: Comp-bytes: 11145135	cr:0.03625	Comp-time: 2.192541568	Decoding-time: 0.66414482
+--- PASS: TestCompress_XC2_ts_gas (140.29s)
+=== RUN   TestCompress_XC2_turbulence
+turbulence: Comp-bytes: 2432665	cr:0.03625	Comp-time: 0.477320823	Decoding-time: 0.143504814
+--- PASS: TestCompress_XC2_turbulence (30.42s)
+=== RUN   TestCompress_XC2_wave_f32
+wave_f32: Comp-bytes: 19461465	cr:0.03625	Comp-time: 3.837445394	Decoding-time: 1.177908663
+--- PASS: TestCompress_XC2_wave_f32 (246.09s)
+PASS
+ok  	github.com/influxdata/influxdb/v2/tsdb/engine/tsm1	(cached)
+=== RUN   TestCompress_XC2_astro_mhd_f64
+astro_mhd_f64: Comp-bytes: 29494843	cr:0.053777956663798004	Comp-time: 2.663905073	Decoding-time: 0.753708849
+--- PASS: TestCompress_XC2_astro_mhd_f64 (131.28s)
+=== RUN   TestCompress_XC2_astro_pt_f64
+astro_pt_f64: Comp-bytes: 649995510	cr:0.9685697106787784	Comp-time: 16.945137165	Decoding-time: 6.205900175
+--- PASS: TestCompress_XC2_astro_pt_f64 (198.49s)
+=== RUN   TestCompress_XC2_citytemp_f32
+citytemp_f32: Comp-bytes: 421370	cr:0.03625	Comp-time: 0.08514541	Decoding-time: 0.026606728
+--- PASS: TestCompress_XC2_citytemp_f32 (5.42s)
+=== RUN   TestCompress_XC2_h3d_temp
+h3d_temp: Comp-bytes: 94001082	cr:0.94001082	Comp-time: 2.092416874	Decoding-time: 0.922397197
+--- PASS: TestCompress_XC2_h3d_temp (29.20s)
+=== RUN   TestCompress_XC2_hdr_night
+hdr_night: Comp-bytes: 23460520	cr:1.0315036932817447	Comp-time: 0.513496521	Decoding-time: 0.329770036
+--- PASS: TestCompress_XC2_hdr_night (6.98s)
+=== RUN   TestCompress_XC2_miranda3d
+miranda3d: Comp-bytes: 155692445	cr:0.03625	Comp-time: 31.753361171	Decoding-time: 10.124729196
+--- PASS: TestCompress_XC2_miranda3d (2030.65s)
+=== RUN   TestCompress_XC2_msg_bt
+msg_bt: Comp-bytes: 245342238	cr:0.9210096627425071	Comp-time: 6.218667197	Decoding-time: 3.182881419
+--- PASS: TestCompress_XC2_msg_bt (80.12s)
+=== RUN   TestCompress_XC2_num_brain
+num_brain: Comp-bytes: 127838773	cr:0.9012885857304005	Comp-time: 3.60342217	Decoding-time: 1.413340714
+--- PASS: TestCompress_XC2_num_brain (41.67s)
+=== RUN   TestCompress_XC2_num_control
+num_control: Comp-bytes: 162811363	cr:1.0207352981743405	Comp-time: 3.897368921	Decoding-time: 2.752916496
+--- PASS: TestCompress_XC2_num_control (53.22s)
+=== RUN   TestCompress_XC2_rsim_f32
+rsim_f32: Comp-bytes: 3417650	cr:0.03625	Comp-time: 0.713918197	Decoding-time: 0.236072557
+--- PASS: TestCompress_XC2_rsim_f32 (45.05s)
+=== RUN   TestCompress_XC2_spitzer_irac
+spitzer_irac: Comp-bytes: 5981105	cr:0.03625	Comp-time: 1.236894296	Decoding-time: 0.400100375
+--- PASS: TestCompress_XC2_spitzer_irac (78.58s)
+=== RUN   TestCompress_XC2_tpch_lineitem
+tpch_lineitem_f32: Comp-bytes: 34791880	cr:0.03625	Comp-time: 7.137340435	Decoding-time: 2.285647047
+--- PASS: TestCompress_XC2_tpch_lineitem (453.77s)
+=== RUN   TestCompress_XC2_tpch_order
+tpch_order_f64: Comp-bytes: 110847987	cr:0.923733225	Comp-time: 2.653215234	Decoding-time: 1.3550260729999999
+--- PASS: TestCompress_XC2_tpch_order (35.36s)
+=== RUN   TestCompress_XC2_ts_gas
+ts_gas: Comp-bytes: 11145135	cr:0.03625	Comp-time: 2.291014908	Decoding-time: 0.738907326
+--- PASS: TestCompress_XC2_ts_gas (145.63s)
+=== RUN   TestCompress_XC2_turbulence
+turbulence: Comp-bytes: 2432665	cr:0.03625	Comp-time: 0.504798216	Decoding-time: 0.163752377
+--- PASS: TestCompress_XC2_turbulence (31.97s)
+=== RUN   TestCompress_XC2_wave_f32
+wave_f32: Comp-bytes: 19461465	cr:0.03625	Comp-time: 3.975676378	Decoding-time: 1.270423104
+--- PASS: TestCompress_XC2_wave_f32 (253.21s)
+PASS
+ok  	github.com/influxdata/influxdb/v2/tsdb/engine/tsm1	3620.625s
+=== RUN   TestCompress_XC2_astro_mhd_f64
+astro_mhd_f64: Comp-bytes: 29494843	cr:0.053777956663798004	Comp-time: 2.64122764	Decoding-time: 0.745352217
+--- PASS: TestCompress_XC2_astro_mhd_f64 (130.61s)
+=== RUN   TestCompress_XC2_astro_pt_f64
+astro_pt_f64: Comp-bytes: 649995510	cr:0.9685697106787784	Comp-time: 16.985528743	Decoding-time: 6.270594979
+--- PASS: TestCompress_XC2_astro_pt_f64 (198.68s)
+=== RUN   TestCompress_XC2_citytemp_f32
+citytemp_f32: Comp-bytes: 421370	cr:0.03625	Comp-time: 0.088896034	Decoding-time: 0.030051975
+--- PASS: TestCompress_XC2_citytemp_f32 (5.63s)
+=== RUN   TestCompress_XC2_h3d_temp
+h3d_temp: Comp-bytes: 94001082	cr:0.94001082	Comp-time: 2.099554234	Decoding-time: 0.949204911
+--- PASS: TestCompress_XC2_h3d_temp (29.22s)
+=== RUN   TestCompress_XC2_hdr_night
+hdr_night: Comp-bytes: 23460520	cr:1.0315036932817447	Comp-time: 0.520635795	Decoding-time: 0.328271151
+--- PASS: TestCompress_XC2_hdr_night (7.05s)
+=== RUN   TestCompress_XC2_miranda3d
+miranda3d: Comp-bytes: 155692445	cr:0.03625	Comp-time: 31.688860178	Decoding-time: 10.149951631
+--- PASS: TestCompress_XC2_miranda3d (2032.49s)
+=== RUN   TestCompress_XC2_msg_bt
+msg_bt: Comp-bytes: 245342238	cr:0.9210096627425071	Comp-time: 6.10512147	Decoding-time: 3.051571012
+--- PASS: TestCompress_XC2_msg_bt (78.54s)
+=== RUN   TestCompress_XC2_num_brain
+num_brain: Comp-bytes: 127838773	cr:0.9012885857304005	Comp-time: 3.606071777	Decoding-time: 1.39342999
+--- PASS: TestCompress_XC2_num_brain (41.70s)
+=== RUN   TestCompress_XC2_num_control
+num_control: Comp-bytes: 162811363	cr:1.0207352981743405	Comp-time: 3.847347879	Decoding-time: 2.7577570959999997
+--- PASS: TestCompress_XC2_num_control (52.63s)
+=== RUN   TestCompress_XC2_rsim_f32
+rsim_f32: Comp-bytes: 3417650	cr:0.03625	Comp-time: 0.699895	Decoding-time: 0.225644137
+--- PASS: TestCompress_XC2_rsim_f32 (44.55s)
+=== RUN   TestCompress_XC2_spitzer_irac
+spitzer_irac: Comp-bytes: 5981105	cr:0.03625	Comp-time: 1.230381812	Decoding-time: 0.391292289
+--- PASS: TestCompress_XC2_spitzer_irac (78.71s)
+=== RUN   TestCompress_XC2_tpch_lineitem
+tpch_lineitem_f32: Comp-bytes: 34791880	cr:0.03625	Comp-time: 7.083245294	Decoding-time: 2.242874922
+--- PASS: TestCompress_XC2_tpch_lineitem (452.17s)
+=== RUN   TestCompress_XC2_tpch_order
+tpch_order_f64: Comp-bytes: 110847987	cr:0.923733225	Comp-time: 2.666313265	Decoding-time: 1.342545448
+--- PASS: TestCompress_XC2_tpch_order (35.45s)
+=== RUN   TestCompress_XC2_ts_gas
+ts_gas: Comp-bytes: 11145135	cr:0.03625	Comp-time: 2.268034242	Decoding-time: 0.722915259
+--- PASS: TestCompress_XC2_ts_gas (145.04s)
+=== RUN   TestCompress_XC2_turbulence
+turbulence: Comp-bytes: 2432665	cr:0.03625	Comp-time: 0.492273157	Decoding-time: 0.152336571
+--- PASS: TestCompress_XC2_turbulence (31.46s)
+=== RUN   TestCompress_XC2_wave_f32
+wave_f32: Comp-bytes: 19461465	cr:0.03625	Comp-time: 3.908196941	Decoding-time: 1.223391343
+--- PASS: TestCompress_XC2_wave_f32 (250.69s)
+PASS
+ok  	github.com/influxdata/influxdb/v2/tsdb/engine/tsm1	3614.662s
+=== RUN   TestCompress_XC2_astro_mhd_f64
+astro_mhd_f64: Comp-bytes: 29494843	cr:0.053777956663798004	Comp-time: 2.600759601	Decoding-time: 0.698193295
+--- PASS: TestCompress_XC2_astro_mhd_f64 (128.85s)
+=== RUN   TestCompress_XC2_astro_pt_f64
+astro_pt_f64: Comp-bytes: 649995510	cr:0.9685697106787784	Comp-time: 16.847702263	Decoding-time: 5.793490515
+--- PASS: TestCompress_XC2_astro_pt_f64 (194.92s)
+=== RUN   TestCompress_XC2_citytemp_f32
+citytemp_f32: Comp-bytes: 421370	cr:0.03625	Comp-time: 0.087771578	Decoding-time: 0.025875934
+--- PASS: TestCompress_XC2_citytemp_f32 (5.61s)
+=== RUN   TestCompress_XC2_h3d_temp
+h3d_temp: Comp-bytes: 94001082	cr:0.94001082	Comp-time: 2.101068213	Decoding-time: 0.887283938
+--- PASS: TestCompress_XC2_h3d_temp (28.91s)
+=== RUN   TestCompress_XC2_hdr_night
+hdr_night: Comp-bytes: 23460520	cr:1.0315036932817447	Comp-time: 0.515017824	Decoding-time: 0.315742428
+--- PASS: TestCompress_XC2_hdr_night (6.95s)
+=== RUN   TestCompress_XC2_miranda3d
+miranda3d: Comp-bytes: 155692445	cr:0.03625	Comp-time: 31.008867934	Decoding-time: 9.345708835
+--- PASS: TestCompress_XC2_miranda3d (2004.87s)
+=== RUN   TestCompress_XC2_msg_bt
+msg_bt: Comp-bytes: 245342238	cr:0.9210096627425071	Comp-time: 6.153248119	Decoding-time: 2.993842749
+--- PASS: TestCompress_XC2_msg_bt (78.36s)
+=== RUN   TestCompress_XC2_num_brain
+num_brain: Comp-bytes: 127838773	cr:0.9012885857304005	Comp-time: 3.567650149	Decoding-time: 1.327482765
+--- PASS: TestCompress_XC2_num_brain (40.91s)
+=== RUN   TestCompress_XC2_num_control
+num_control: Comp-bytes: 162811363	cr:1.0207352981743405	Comp-time: 3.809209822	Decoding-time: 2.526138299
+--- PASS: TestCompress_XC2_num_control (51.38s)
+=== RUN   TestCompress_XC2_rsim_f32
+rsim_f32: Comp-bytes: 3417650	cr:0.03625	Comp-time: 0.677642193	Decoding-time: 0.203794088
+--- PASS: TestCompress_XC2_rsim_f32 (43.72s)
+=== RUN   TestCompress_XC2_spitzer_irac
+spitzer_irac: Comp-bytes: 5981105	cr:0.03625	Comp-time: 1.182156693	Decoding-time: 0.367469865
+--- PASS: TestCompress_XC2_spitzer_irac (76.22s)
+=== RUN   TestCompress_XC2_tpch_lineitem
+tpch_lineitem_f32: Comp-bytes: 34791880	cr:0.03625	Comp-time: 6.933553742	Decoding-time: 2.101676647
+--- PASS: TestCompress_XC2_tpch_lineitem (446.51s)
+=== RUN   TestCompress_XC2_tpch_order
+tpch_order_f64: Comp-bytes: 110847987	cr:0.923733225	Comp-time: 2.689998176	Decoding-time: 1.305895211
+--- PASS: TestCompress_XC2_tpch_order (35.40s)
+=== RUN   TestCompress_XC2_ts_gas
+ts_gas: Comp-bytes: 11145135	cr:0.03625	Comp-time: 2.226410135	Decoding-time: 0.671017834
+--- PASS: TestCompress_XC2_ts_gas (143.57s)
+=== RUN   TestCompress_XC2_turbulence
+turbulence: Comp-bytes: 2432665	cr:0.03625	Comp-time: 0.489765726	Decoding-time: 0.147936941
+--- PASS: TestCompress_XC2_turbulence (31.27s)
+=== RUN   TestCompress_XC2_wave_f32
+wave_f32: Comp-bytes: 19461465	cr:0.03625	Comp-time: 3.875005379	Decoding-time: 1.185424757
+--- PASS: TestCompress_XC2_wave_f32 (249.17s)
+PASS
+ok  	github.com/influxdata/influxdb/v2/tsdb/engine/tsm1	3566.644s
+=== RUN   TestCompress_XC2_astro_mhd_f64
+astro_mhd_f64: Comp-bytes: 29494843	cr:0.053777956663798004	Comp-time: 2.576738578	Decoding-time: 0.679041964
+--- PASS: TestCompress_XC2_astro_mhd_f64 (127.00s)
+=== RUN   TestCompress_XC2_astro_pt_f64
+astro_pt_f64: Comp-bytes: 649995510	cr:0.9685697106787784	Comp-time: 16.468134323	Decoding-time: 5.703640411
+--- PASS: TestCompress_XC2_astro_pt_f64 (191.39s)
+=== RUN   TestCompress_XC2_citytemp_f32
+citytemp_f32: Comp-bytes: 421370	cr:0.03625	Comp-time: 0.081722103	Decoding-time: 0.024882416
+--- PASS: TestCompress_XC2_citytemp_f32 (5.25s)
+=== RUN   TestCompress_XC2_h3d_temp
+h3d_temp: Comp-bytes: 94001082	cr:0.94001082	Comp-time: 2.049398634	Decoding-time: 0.852557562
+--- PASS: TestCompress_XC2_h3d_temp (28.41s)
+=== RUN   TestCompress_XC2_hdr_night
+hdr_night: Comp-bytes: 23460520	cr:1.0315036932817447	Comp-time: 0.497224617	Decoding-time: 0.30389552
+--- PASS: TestCompress_XC2_hdr_night (6.76s)
+=== RUN   TestCompress_XC2_miranda3d
+miranda3d: Comp-bytes: 155692445	cr:0.03625	Comp-time: 30.617595882	Decoding-time: 9.12105813
+--- PASS: TestCompress_XC2_miranda3d (1974.03s)
+=== RUN   TestCompress_XC2_msg_bt
+msg_bt: Comp-bytes: 245342238	cr:0.9210096627425071	Comp-time: 6.04992954	Decoding-time: 2.947926548
+--- PASS: TestCompress_XC2_msg_bt (77.29s)
+=== RUN   TestCompress_XC2_num_brain
+num_brain: Comp-bytes: 127838773	cr:0.9012885857304005	Comp-time: 3.45898038	Decoding-time: 1.271719837
+--- PASS: TestCompress_XC2_num_brain (39.77s)
+=== RUN   TestCompress_XC2_num_control
+num_control: Comp-bytes: 162811363	cr:1.0207352981743405	Comp-time: 3.7302362000000002	Decoding-time: 2.457835878
+--- PASS: TestCompress_XC2_num_control (50.45s)
+=== RUN   TestCompress_XC2_rsim_f32
+rsim_f32: Comp-bytes: 3417650	cr:0.03625	Comp-time: 0.668729555	Decoding-time: 0.199116637
+--- PASS: TestCompress_XC2_rsim_f32 (42.83s)
+=== RUN   TestCompress_XC2_spitzer_irac
+spitzer_irac: Comp-bytes: 5981105	cr:0.03625	Comp-time: 1.181019204	Decoding-time: 0.349846556
+--- PASS: TestCompress_XC2_spitzer_irac (75.72s)
+=== RUN   TestCompress_XC2_tpch_lineitem
+tpch_lineitem_f32: Comp-bytes: 34791880	cr:0.03625	Comp-time: 6.85799763	Decoding-time: 2.035355014
+--- PASS: TestCompress_XC2_tpch_lineitem (438.51s)
+=== RUN   TestCompress_XC2_tpch_order
+tpch_order_f64: Comp-bytes: 110847987	cr:0.923733225	Comp-time: 2.619239864	Decoding-time: 1.2697670589999999
+--- PASS: TestCompress_XC2_tpch_order (34.57s)
+=== RUN   TestCompress_XC2_ts_gas
+ts_gas: Comp-bytes: 11145135	cr:0.03625	Comp-time: 2.209771849	Decoding-time: 0.662841818
+--- PASS: TestCompress_XC2_ts_gas (141.94s)
+=== RUN   TestCompress_XC2_turbulence
+turbulence: Comp-bytes: 2432665	cr:0.03625	Comp-time: 0.478791382	Decoding-time: 0.14220503
+--- PASS: TestCompress_XC2_turbulence (30.60s)
+=== RUN   TestCompress_XC2_wave_f32
+wave_f32: Comp-bytes: 19461465	cr:0.03625	Comp-time: 3.8432904519999997	Decoding-time: 1.143974378
+--- PASS: TestCompress_XC2_wave_f32 (246.35s)
+PASS
+ok  	github.com/influxdata/influxdb/v2/tsdb/engine/tsm1	3510.900s

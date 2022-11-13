@@ -1,0 +1,6 @@
+h3d_temp:raw = 100000000 bytes, compressed = 101475680 bytes, ratio = 1.0148, time = 0.002s, 	1199.147 ms, 	1363.010 ms 
+h3d_temp:raw = 100000000 bytes, compressed = 101475680 bytes, ratio = 1.0148, time = 0.002s, 	1227.894 ms, 	1395.587 ms 
+h3d_temp:raw = 100000000 bytes, compressed = 101475680 bytes, ratio = 1.0148, time = 0.002s, 	1210.092 ms, 	1365.065 ms 
+h3d_temp:raw = 100000000 bytes, compressed = 101475680 bytes, ratio = 1.0148, time = 0.002s, 	1215.303 ms, 	1374.269 ms 
+h3d_temp:raw = 100000000 bytes, compressed = 101475680 bytes, ratio = 1.0148, time = 0.002s, 	1184.643 ms, 	1354.093 ms 
+h3d_temp:raw = 100000000 bytes, compressed = 101475680 bytes, ratio = 1.0148, time = 0.002s, 	1203.286 ms, 	1370.397 ms 

@@ -1,0 +1,13 @@
+Seq Length 266389432
+Vocab Size 256
+====> Epoch: 1 Average loss: 6.0336246516
+Loss went from 100000000.0000 to 6.0336
+====> Epoch: 2 Average loss: 5.6073113789
+Loss went from 6.0336 to 5.6073
+====> Epoch: 3 Average loss: 5.5976980731
+Loss went from 5.6073 to 5.5977
+====> Epoch: 4 Average loss: 5.5936708726
+Loss went from 5.5977 to 5.5937
+boostrap-time= 31759.375
+Using /home/cc/code/Dzip-torch/Models/msg_bt.trace.bootstrap for encoding
+compress-time= 7410.0488231629715

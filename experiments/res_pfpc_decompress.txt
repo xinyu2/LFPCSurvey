@@ -1,0 +1,192 @@
+decomp-time: 755.88 ms
+decomp-time: 2232.25 ms
+decomp-time: 109.63 ms
+decomp-time: 518.59 ms
+decomp-time: 166.99 ms
+decomp-time: 18033.08 ms
+decomp-time: 1128.43 ms
+decomp-time: 665.58 ms
+decomp-time: 788.53 ms
+decomp-time: 447.05 ms
+decomp-time: 757.97 ms
+decomp-time: 4396.32 ms
+decomp-time: 600.05 ms
+decomp-time: 1340.40 ms
+decomp-time: 363.34 ms
+decomp-time: 2383.84 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 06:24 /home/cc/data/astro_mhd_f64.pfpcout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 06:24 /home/cc/data/astro_pt_f64.pfpcout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 06:24 /home/cc/data/citytemp_f32.pfpcout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 06:24 /home/cc/data/h3d_temp.pfpcout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 06:24 /home/cc/data/hdr_night.pfpcout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 06:25 /home/cc/data/miranda3d.pfpcout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 06:25 /home/cc/data/msg_bt.pfpcout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 06:25 /home/cc/data/num_brain.pfpcout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 06:25 /home/cc/data/num_control.pfpcout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 06:25 /home/cc/data/rsim_f32.pfpcout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 06:25 /home/cc/data/spitzer_irac.pfpcout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 06:25 /home/cc/data/tpch_lineitem_f32.pfpcout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 06:25 /home/cc/data/tpch_order_f64.pfpcout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 06:25 /home/cc/data/ts_gas.pfpcout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 06:25 /home/cc/data/turbulence.pfpcout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 06:25 /home/cc/data/wave_f32.pfpcout
+decomp-time: 819.53 ms
+decomp-time: 2260.77 ms
+decomp-time: 111.49 ms
+decomp-time: 524.39 ms
+decomp-time: 167.40 ms
+decomp-time: 17809.60 ms
+decomp-time: 1110.01 ms
+decomp-time: 671.84 ms
+decomp-time: 796.36 ms
+decomp-time: 442.84 ms
+decomp-time: 761.29 ms
+decomp-time: 4420.80 ms
+decomp-time: 604.79 ms
+decomp-time: 1313.79 ms
+decomp-time: 377.94 ms
+decomp-time: 2361.67 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 16:49 /home/cc/data/astro_mhd_f64.pfpcout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 16:49 /home/cc/data/astro_pt_f64.pfpcout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 16:49 /home/cc/data/citytemp_f32.pfpcout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 16:49 /home/cc/data/h3d_temp.pfpcout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 16:49 /home/cc/data/hdr_night.pfpcout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 16:49 /home/cc/data/miranda3d.pfpcout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 16:49 /home/cc/data/msg_bt.pfpcout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 16:49 /home/cc/data/num_brain.pfpcout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 16:49 /home/cc/data/num_control.pfpcout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 16:49 /home/cc/data/rsim_f32.pfpcout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 16:49 /home/cc/data/spitzer_irac.pfpcout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 16:50 /home/cc/data/tpch_lineitem_f32.pfpcout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 16:50 /home/cc/data/tpch_order_f64.pfpcout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 16:50 /home/cc/data/ts_gas.pfpcout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 16:50 /home/cc/data/turbulence.pfpcout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 16:50 /home/cc/data/wave_f32.pfpcout
+decomp-time: 834.00 ms
+decomp-time: 2264.21 ms
+decomp-time: 113.55 ms
+decomp-time: 525.02 ms
+decomp-time: 167.99 ms
+decomp-time: 17794.77 ms
+decomp-time: 1132.75 ms
+decomp-time: 676.47 ms
+decomp-time: 797.45 ms
+decomp-time: 452.82 ms
+decomp-time: 710.65 ms
+decomp-time: 4420.83 ms
+decomp-time: 610.50 ms
+decomp-time: 1340.98 ms
+decomp-time: 367.21 ms
+decomp-time: 2378.73 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 17:56 /home/cc/data/astro_mhd_f64.pfpcout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 17:56 /home/cc/data/astro_pt_f64.pfpcout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 17:56 /home/cc/data/citytemp_f32.pfpcout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 17:56 /home/cc/data/h3d_temp.pfpcout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 17:56 /home/cc/data/hdr_night.pfpcout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 17:57 /home/cc/data/miranda3d.pfpcout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 17:57 /home/cc/data/msg_bt.pfpcout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 17:57 /home/cc/data/num_brain.pfpcout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 17:57 /home/cc/data/num_control.pfpcout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 17:57 /home/cc/data/rsim_f32.pfpcout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 17:57 /home/cc/data/spitzer_irac.pfpcout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 17:57 /home/cc/data/tpch_lineitem_f32.pfpcout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 17:57 /home/cc/data/tpch_order_f64.pfpcout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 17:57 /home/cc/data/ts_gas.pfpcout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 17:57 /home/cc/data/turbulence.pfpcout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 17:57 /home/cc/data/wave_f32.pfpcout
+decomp-time: 777.15 ms
+decomp-time: 2252.96 ms
+decomp-time: 111.43 ms
+decomp-time: 527.10 ms
+decomp-time: 162.81 ms
+decomp-time: 17860.87 ms
+decomp-time: 1112.02 ms
+decomp-time: 663.69 ms
+decomp-time: 797.44 ms
+decomp-time: 451.89 ms
+decomp-time: 757.34 ms
+decomp-time: 4408.16 ms
+decomp-time: 608.30 ms
+decomp-time: 1320.76 ms
+decomp-time: 377.97 ms
+decomp-time: 2358.10 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 22:03 /home/cc/data/astro_mhd_f64.pfpcout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 22:03 /home/cc/data/astro_pt_f64.pfpcout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 22:03 /home/cc/data/citytemp_f32.pfpcout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 22:03 /home/cc/data/h3d_temp.pfpcout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 22:03 /home/cc/data/hdr_night.pfpcout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 22:03 /home/cc/data/miranda3d.pfpcout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 22:03 /home/cc/data/msg_bt.pfpcout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 22:03 /home/cc/data/num_brain.pfpcout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 22:03 /home/cc/data/num_control.pfpcout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 22:04 /home/cc/data/rsim_f32.pfpcout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 22:04 /home/cc/data/spitzer_irac.pfpcout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 22:04 /home/cc/data/tpch_lineitem_f32.pfpcout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 22:04 /home/cc/data/tpch_order_f64.pfpcout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 22:04 /home/cc/data/ts_gas.pfpcout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 22:04 /home/cc/data/turbulence.pfpcout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 22:04 /home/cc/data/wave_f32.pfpcout
+decomp-time: 765.50 ms
+decomp-time: 2309.02 ms
+decomp-time: 110.05 ms
+decomp-time: 521.37 ms
+decomp-time: 167.51 ms
+decomp-time: 17873.93 ms
+decomp-time: 1142.06 ms
+decomp-time: 669.73 ms
+decomp-time: 783.76 ms
+decomp-time: 450.53 ms
+decomp-time: 749.12 ms
+decomp-time: 4420.00 ms
+decomp-time: 610.81 ms
+decomp-time: 1286.00 ms
+decomp-time: 371.01 ms
+decomp-time: 2410.32 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  5 06:19 /home/cc/data/astro_mhd_f64.pfpcout
+-rw-rw-r-- 1 cc cc  671088640 Oct  5 06:19 /home/cc/data/astro_pt_f64.pfpcout
+-rw-rw-r-- 1 cc cc   11625304 Oct  5 06:19 /home/cc/data/citytemp_f32.pfpcout
+-rw-rw-r-- 1 cc cc  100000000 Oct  5 06:19 /home/cc/data/h3d_temp.pfpcout
+-rw-rw-r-- 1 cc cc   22749792 Oct  5 06:19 /home/cc/data/hdr_night.pfpcout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  5 06:20 /home/cc/data/miranda3d.pfpcout
+-rw-rw-r-- 1 cc cc  266389432 Oct  5 06:20 /home/cc/data/msg_bt.pfpcout
+-rw-rw-r-- 1 cc cc  141840000 Oct  5 06:20 /home/cc/data/num_brain.pfpcout
+-rw-rw-r-- 1 cc cc  159504744 Oct  5 06:20 /home/cc/data/num_control.pfpcout
+-rw-rw-r-- 1 cc cc   94281728 Oct  5 06:20 /home/cc/data/rsim_f32.pfpcout
+-rw-rw-r-- 1 cc cc  164998080 Oct  5 06:20 /home/cc/data/spitzer_irac.pfpcout
+-rw-rw-r-- 1 cc cc  959776816 Oct  5 06:20 /home/cc/data/tpch_lineitem_f32.pfpcout
+-rw-rw-r-- 1 cc cc  120000000 Oct  5 06:20 /home/cc/data/tpch_order_f64.pfpcout
+-rw-rw-r-- 1 cc cc  307452800 Oct  5 06:20 /home/cc/data/ts_gas.pfpcout
+-rw-rw-r-- 1 cc cc   67108864 Oct  5 06:20 /home/cc/data/turbulence.pfpcout
+-rw-rw-r-- 1 cc cc  536870912 Oct  5 06:20 /home/cc/data/wave_f32.pfpcout
+decomp-time: 742.64 ms
+decomp-time: 2244.84 ms
+decomp-time: 111.44 ms
+decomp-time: 520.59 ms
+decomp-time: 164.04 ms
+decomp-time: 17818.09 ms
+decomp-time: 1115.88 ms
+decomp-time: 648.78 ms
+decomp-time: 789.38 ms
+decomp-time: 450.12 ms
+decomp-time: 746.56 ms
+decomp-time: 4343.94 ms
+decomp-time: 597.50 ms
+decomp-time: 1255.83 ms
+decomp-time: 367.05 ms
+decomp-time: 2366.77 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  5 17:33 /home/cc/data/astro_mhd_f64.pfpcout
+-rw-rw-r-- 1 cc cc  671088640 Oct  5 17:33 /home/cc/data/astro_pt_f64.pfpcout
+-rw-rw-r-- 1 cc cc   11625304 Oct  5 17:33 /home/cc/data/citytemp_f32.pfpcout
+-rw-rw-r-- 1 cc cc  100000000 Oct  5 17:34 /home/cc/data/h3d_temp.pfpcout
+-rw-rw-r-- 1 cc cc   22749792 Oct  5 17:34 /home/cc/data/hdr_night.pfpcout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  5 17:34 /home/cc/data/miranda3d.pfpcout
+-rw-rw-r-- 1 cc cc  266389432 Oct  5 17:34 /home/cc/data/msg_bt.pfpcout
+-rw-rw-r-- 1 cc cc  141840000 Oct  5 17:34 /home/cc/data/num_brain.pfpcout
+-rw-rw-r-- 1 cc cc  159504744 Oct  5 17:34 /home/cc/data/num_control.pfpcout
+-rw-rw-r-- 1 cc cc   94281728 Oct  5 17:34 /home/cc/data/rsim_f32.pfpcout
+-rw-rw-r-- 1 cc cc  164998080 Oct  5 17:34 /home/cc/data/spitzer_irac.pfpcout
+-rw-rw-r-- 1 cc cc  959776816 Oct  5 17:34 /home/cc/data/tpch_lineitem_f32.pfpcout
+-rw-rw-r-- 1 cc cc  120000000 Oct  5 17:34 /home/cc/data/tpch_order_f64.pfpcout
+-rw-rw-r-- 1 cc cc  307452800 Oct  5 17:34 /home/cc/data/ts_gas.pfpcout
+-rw-rw-r-- 1 cc cc   67108864 Oct  5 17:34 /home/cc/data/turbulence.pfpcout
+-rw-rw-r-- 1 cc cc  536870912 Oct  5 17:34 /home/cc/data/wave_f32.pfpcout

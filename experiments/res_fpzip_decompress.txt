@@ -1,0 +1,203 @@
+3090.895
+8209.934
+219.595
+1297.596
+336.369
+52454.757
+3578.299
+1937.941
+2285.150
+1477.666
+2647.588
+17687.057
+1691.261
+4558.105
+1204.731
+8346.937
+
+2942.493
+7998.049
+215.661
+1273.101
+337.446
+51792.321
+3589.077
+1845.165
+2242.538
+1417.776
+2594.398
+17441.145
+1665.805
+4525.503
+1164.911
+8274.534
+
+2932.276
+7999.850
+216.619
+1267.921
+333.419
+51977.402
+3513.899
+1830.528
+2233.883
+1418.709
+2716.572
+18282.735
+1671.525
+4551.566
+1161.061
+8351.203
+
+2926.824
+8031.629
+218.138
+1264.281
+333.098
+51810.751
+3506.530
+1827.168
+2234.872
+1414.819
+2745.255
+16916.568
+1661.082
+4499.730
+1157.029
+8257.419
+
+3013.812
+8441.038
+223.064
+1278.453
+337.963
+54816.401
+3601.568
+1940.242
+2304.750
+1442.330
+2644.824
+17122.510
+1710.941
+4710.686
+1189.479
+8441.488
+
+3099.906
+7994.546
+215.714
+1260.877
+331.184
+52010.929
+3519.142
+1867.520
+2242.016
+1418.459
+2584.739
+16725.303
+1720.558
+4604.603
+1162.374
+8271.341
+
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 06:21 /home/cc/data/astro_mhd_f64.fpzipout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 06:21 /home/cc/data/astro_pt_f64.fpzipout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 06:21 /home/cc/data/citytemp_f32.fpzipout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 06:21 /home/cc/data/h3d_temp.fpzipout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 06:21 /home/cc/data/hdr_night.fpzipout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 06:22 /home/cc/data/miranda3d.fpzipout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 06:22 /home/cc/data/msg_bt.fpzipout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 06:22 /home/cc/data/num_brain.fpzipout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 06:22 /home/cc/data/num_control.fpzipout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 06:22 /home/cc/data/rsim_f32.fpzipout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 06:22 /home/cc/data/spitzer_irac.fpzipout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 06:22 /home/cc/data/tpch_lineitem_f32.fpzipout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 06:22 /home/cc/data/tpch_order_f64.fpzipout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 06:22 /home/cc/data/ts_gas.fpzipout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 06:22 /home/cc/data/turbulence.fpzipout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 06:22 /home/cc/data/wave_f32.fpzipout
+
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 16:45 /home/cc/data/astro_mhd_f64.fpzipout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 16:45 /home/cc/data/astro_pt_f64.fpzipout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 16:45 /home/cc/data/citytemp_f32.fpzipout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 16:45 /home/cc/data/h3d_temp.fpzipout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 16:45 /home/cc/data/hdr_night.fpzipout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 16:46 /home/cc/data/miranda3d.fpzipout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 16:46 /home/cc/data/msg_bt.fpzipout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 16:46 /home/cc/data/num_brain.fpzipout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 16:46 /home/cc/data/num_control.fpzipout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 16:46 /home/cc/data/rsim_f32.fpzipout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 16:46 /home/cc/data/spitzer_irac.fpzipout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 16:46 /home/cc/data/tpch_lineitem_f32.fpzipout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 16:46 /home/cc/data/tpch_order_f64.fpzipout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 16:47 /home/cc/data/ts_gas.fpzipout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 16:47 /home/cc/data/turbulence.fpzipout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 16:47 /home/cc/data/wave_f32.fpzipout
+
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 17:52 /home/cc/data/astro_mhd_f64.fpzipout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 17:52 /home/cc/data/astro_pt_f64.fpzipout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 17:52 /home/cc/data/citytemp_f32.fpzipout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 17:52 /home/cc/data/h3d_temp.fpzipout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 17:52 /home/cc/data/hdr_night.fpzipout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 17:53 /home/cc/data/miranda3d.fpzipout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 17:53 /home/cc/data/msg_bt.fpzipout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 17:53 /home/cc/data/num_brain.fpzipout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 17:53 /home/cc/data/num_control.fpzipout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 17:53 /home/cc/data/rsim_f32.fpzipout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 17:53 /home/cc/data/spitzer_irac.fpzipout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 17:54 /home/cc/data/tpch_lineitem_f32.fpzipout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 17:54 /home/cc/data/tpch_order_f64.fpzipout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 17:54 /home/cc/data/ts_gas.fpzipout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 17:54 /home/cc/data/turbulence.fpzipout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 17:54 /home/cc/data/wave_f32.fpzipout
+
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 21:59 /home/cc/data/astro_mhd_f64.fpzipout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 21:59 /home/cc/data/astro_pt_f64.fpzipout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 21:59 /home/cc/data/citytemp_f32.fpzipout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 21:59 /home/cc/data/h3d_temp.fpzipout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 21:59 /home/cc/data/hdr_night.fpzipout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 22:00 /home/cc/data/miranda3d.fpzipout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 22:00 /home/cc/data/msg_bt.fpzipout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 22:00 /home/cc/data/num_brain.fpzipout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 22:00 /home/cc/data/num_control.fpzipout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 22:00 /home/cc/data/rsim_f32.fpzipout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 22:00 /home/cc/data/spitzer_irac.fpzipout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 22:01 /home/cc/data/tpch_lineitem_f32.fpzipout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 22:01 /home/cc/data/tpch_order_f64.fpzipout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 22:01 /home/cc/data/ts_gas.fpzipout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 22:01 /home/cc/data/turbulence.fpzipout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 22:01 /home/cc/data/wave_f32.fpzipout
+
+-rw-rw-r-- 1 cc cc  548458560 Oct  5 06:15 /home/cc/data/astro_mhd_f64.fpzipout
+-rw-rw-r-- 1 cc cc  671088640 Oct  5 06:16 /home/cc/data/astro_pt_f64.fpzipout
+-rw-rw-r-- 1 cc cc   11625304 Oct  5 06:16 /home/cc/data/citytemp_f32.fpzipout
+-rw-rw-r-- 1 cc cc  100000000 Oct  5 06:16 /home/cc/data/h3d_temp.fpzipout
+-rw-rw-r-- 1 cc cc   22749792 Oct  5 06:16 /home/cc/data/hdr_night.fpzipout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  5 06:16 /home/cc/data/miranda3d.fpzipout
+-rw-rw-r-- 1 cc cc  266389432 Oct  5 06:17 /home/cc/data/msg_bt.fpzipout
+-rw-rw-r-- 1 cc cc  141840000 Oct  5 06:17 /home/cc/data/num_brain.fpzipout
+-rw-rw-r-- 1 cc cc  159504744 Oct  5 06:17 /home/cc/data/num_control.fpzipout
+-rw-rw-r-- 1 cc cc   94281728 Oct  5 06:17 /home/cc/data/rsim_f32.fpzipout
+-rw-rw-r-- 1 cc cc  164998080 Oct  5 06:17 /home/cc/data/spitzer_irac.fpzipout
+-rw-rw-r-- 1 cc cc  959776816 Oct  5 06:17 /home/cc/data/tpch_lineitem_f32.fpzipout
+-rw-rw-r-- 1 cc cc  120000000 Oct  5 06:17 /home/cc/data/tpch_order_f64.fpzipout
+-rw-rw-r-- 1 cc cc  307452800 Oct  5 06:17 /home/cc/data/ts_gas.fpzipout
+-rw-rw-r-- 1 cc cc   67108864 Oct  5 06:17 /home/cc/data/turbulence.fpzipout
+-rw-rw-r-- 1 cc cc  536870912 Oct  5 06:17 /home/cc/data/wave_f32.fpzipout
+
+-rw-rw-r-- 1 cc cc  548458560 Oct  5 17:30 /home/cc/data/astro_mhd_f64.fpzipout
+-rw-rw-r-- 1 cc cc  671088640 Oct  5 17:30 /home/cc/data/astro_pt_f64.fpzipout
+-rw-rw-r-- 1 cc cc   11625304 Oct  5 17:30 /home/cc/data/citytemp_f32.fpzipout
+-rw-rw-r-- 1 cc cc  100000000 Oct  5 17:30 /home/cc/data/h3d_temp.fpzipout
+-rw-rw-r-- 1 cc cc   22749792 Oct  5 17:30 /home/cc/data/hdr_night.fpzipout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  5 17:31 /home/cc/data/miranda3d.fpzipout
+-rw-rw-r-- 1 cc cc  266389432 Oct  5 17:31 /home/cc/data/msg_bt.fpzipout
+-rw-rw-r-- 1 cc cc  141840000 Oct  5 17:31 /home/cc/data/num_brain.fpzipout
+-rw-rw-r-- 1 cc cc  159504744 Oct  5 17:31 /home/cc/data/num_control.fpzipout
+-rw-rw-r-- 1 cc cc   94281728 Oct  5 17:31 /home/cc/data/rsim_f32.fpzipout
+-rw-rw-r-- 1 cc cc  164998080 Oct  5 17:31 /home/cc/data/spitzer_irac.fpzipout
+-rw-rw-r-- 1 cc cc  959776816 Oct  5 17:31 /home/cc/data/tpch_lineitem_f32.fpzipout
+-rw-rw-r-- 1 cc cc  120000000 Oct  5 17:31 /home/cc/data/tpch_order_f64.fpzipout
+-rw-rw-r-- 1 cc cc  307452800 Oct  5 17:31 /home/cc/data/ts_gas.fpzipout
+-rw-rw-r-- 1 cc cc   67108864 Oct  5 17:31 /home/cc/data/turbulence.fpzipout
+-rw-rw-r-- 1 cc cc  536870912 Oct  5 17:31 /home/cc/data/wave_f32.fpzipout

@@ -1,0 +1,18 @@
+Seq Length 164998080
+Vocab Size 256
+====> Epoch: 1 Average loss: 5.2981087307
+Loss went from 100000000.0000 to 5.2981
+Using ../Models/obs_spitzer.trace.bootstrap for encoding
+Seq Length 164998080
+Vocab Size 256
+====> Epoch: 1 Average loss: 5.2981087307
+Loss went from 100000000.0000 to 5.2981
+====> Epoch: 2 Average loss: 5.2915170989
+Loss went from 5.2981 to 5.2915
+====> Epoch: 3 Average loss: 5.2908829654
+Loss went from 5.2915 to 5.2909
+====> Epoch: 4 Average loss: 5.2905647136
+Loss went from 5.2909 to 5.2906
+boostrap-time= 19493.048
+Using ../Models/obs_spitzer.trace.bootstrap for encoding
+compress-time= 4816.648572140955

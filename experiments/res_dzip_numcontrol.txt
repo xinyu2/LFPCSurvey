@@ -1,0 +1,32 @@
+Seq Length 159504744
+Vocab Size 256
+====> Epoch: 1 Average loss: 58.5491098211
+Loss went from 100000000.0000 to 58.5491
+====> Epoch: 2 Average loss: 86.2159656746
+====> Epoch: 3 Average loss: 86.2159657123
+====> Epoch: 4 Average loss: 86.2159657379
+boostrap-time= 19037.291
+Using /home/cc/code/Dzip-torch/Models/num_control.trace.bootstrap for encoding
+compress-time= 7206.378811654984
+159504744 Oct  3 18:32 data/num_control
+422081169 Oct  6 04:59 data/num_control.dzip.combined
+     9923 Oct  6 02:58 data/num_control.dzip.params
+
+
+Seq Length 159504744
+Vocab Size 256
+====> Epoch: 1 Average loss: 58.5491098211
+Loss went from 100000000.0000 to 58.5491
+====> Epoch: 2 Average loss: 86.2159656746
+====> Epoch: 3 Average loss: 86.2159657123
+====> Epoch: 4 Average loss: 86.2159657379
+====> Epoch: 5 Average loss: 86.2159657048
+====> Epoch: 6 Average loss: 86.2159656801
+====> Epoch: 7 Average loss: 86.2159657076
+====> Epoch: 8 Average loss: 86.2159656576
+boostrap-time= 37763.349
+Using /home/cc/code/Dzip-torch/Models/num_control.trace.bootstrap for encoding
+compress-time= 7198.074375033029
+159504744 Oct  3 18:32 /home/cc/data/num_control
+422081169 Oct  6 17:58 /home/cc/data/num_control.dzip.combined
+     9923 Oct  6 15:58 /home/cc/data/num_control.dzip.params

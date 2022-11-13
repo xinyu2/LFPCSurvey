@@ -1,0 +1,546 @@
+----------
+files: 1
+uncompressed (B): 548458560
+comp_size: 26367028, compressed ratio: 20.8009
+compression throughput (GB/s): 287.8286
+decompression throughput (GB/s): 197.0582
+----------
+files: 1
+uncompressed (B): 671088640
+comp_size: 672071680, compressed ratio: 0.9985
+compression throughput (GB/s): 256.8340
+decompression throughput (GB/s): 189.0365
+----------
+files: 1
+uncompressed (B): 11625304
+comp_size: 11459260, compressed ratio: 1.0145
+compression throughput (GB/s): 144.3348
+decompression throughput (GB/s): 10.6403
+----------
+files: 1
+uncompressed (B): 100000000
+comp_size: 99795756, compressed ratio: 1.0020
+compression throughput (GB/s): 244.6567
+decompression throughput (GB/s): 74.1083
+----------
+files: 1
+uncompressed (B): 22749792
+comp_size: 22749548, compressed ratio: 1.0000
+compression throughput (GB/s): 197.3164
+decompression throughput (GB/s): 20.8919
+miranda3d diverge
+----------
+files: 1
+uncompressed (B): 266389432
+comp_size: 252184576, compressed ratio: 1.0563
+compression throughput (GB/s): 203.6567
+decompression throughput (GB/s): 120.5391
+----------
+files: 1
+uncompressed (B): 141840000
+comp_size: 142047836, compressed ratio: 0.9985
+compression throughput (GB/s): 247.4460
+decompression throughput (GB/s): 91.8881
+----------
+files: 1
+uncompressed (B): 159504744
+comp_size: 158059224, compressed ratio: 1.0091
+compression throughput (GB/s): 246.5267
+decompression throughput (GB/s): 97.8355
+----------
+files: 1
+uncompressed (B): 94281728
+comp_size: 72213468, compressed ratio: 1.3056
+compression throughput (GB/s): 234.6344
+decompression throughput (GB/s): 69.7317
+----------
+files: 1
+uncompressed (B): 164998080
+comp_size: 133651620, compressed ratio: 1.2345
+compression throughput (GB/s): 224.3968
+decompression throughput (GB/s): 107.4050
+----------
+files: 1
+uncompressed (B): 959776816
+comp_size: 961182812, compressed ratio: 0.9985
+compression throughput (GB/s): 256.9546
+decompression throughput (GB/s): 205.4669
+----------
+files: 1
+uncompressed (B): 120000000
+comp_size: 120175852, compressed ratio: 0.9985
+compression throughput (GB/s): 244.1406
+decompression throughput (GB/s): 83.8832
+----------
+files: 1
+uncompressed (B): 307452800
+comp_size: 263379244, compressed ratio: 1.1673
+compression throughput (GB/s): 248.4780
+decompression throughput (GB/s): 116.1286
+----------
+files: 1
+uncompressed (B): 67108864
+comp_size: 67207168, compressed ratio: 0.9985
+compression throughput (GB/s): 234.0571
+decompression throughput (GB/s): 58.2138
+----------
+files: 1
+uncompressed (B): 536870912
+comp_size: 537657240, compressed ratio: 0.9985
+compression throughput (GB/s): 257.0197
+decompression throughput (GB/s): 176.0777
+----------
+files: 1
+uncompressed (B): 548458560
+comp_size: 26367028, compressed ratio: 20.8009
+compression throughput (GB/s): 287.8431
+decompression throughput (GB/s): 196.9427
+----------
+files: 1
+uncompressed (B): 671088640
+comp_size: 672071680, compressed ratio: 0.9985
+compression throughput (GB/s): 257.0039
+decompression throughput (GB/s): 188.4911
+----------
+files: 1
+uncompressed (B): 11625304
+comp_size: 11459260, compressed ratio: 1.0145
+compression throughput (GB/s): 145.5492
+decompression throughput (GB/s): 10.6101
+----------
+files: 1
+uncompressed (B): 100000000
+comp_size: 99795756, compressed ratio: 1.0020
+compression throughput (GB/s): 242.9260
+decompression throughput (GB/s): 76.4844
+----------
+files: 1
+uncompressed (B): 22749792
+comp_size: 22749548, compressed ratio: 1.0000
+compression throughput (GB/s): 191.5224
+decompression throughput (GB/s): 22.7629
+miranda3d diverge
+----------
+files: 1
+uncompressed (B): 266389432
+comp_size: 252184576, compressed ratio: 1.0563
+compression throughput (GB/s): 204.3165
+decompression throughput (GB/s): 120.6596
+----------
+files: 1
+uncompressed (B): 141840000
+comp_size: 142047836, compressed ratio: 0.9985
+compression throughput (GB/s): 246.8397
+decompression throughput (GB/s): 93.0885
+----------
+files: 1
+uncompressed (B): 159504744
+comp_size: 158059224, compressed ratio: 1.0091
+compression throughput (GB/s): 248.0726
+decompression throughput (GB/s): 98.1882
+----------
+files: 1
+uncompressed (B): 94281728
+comp_size: 72213468, compressed ratio: 1.3056
+compression throughput (GB/s): 231.8464
+decompression throughput (GB/s): 71.2029
+----------
+files: 1
+uncompressed (B): 164998080
+comp_size: 133651620, compressed ratio: 1.2345
+compression throughput (GB/s): 223.2407
+decompression throughput (GB/s): 105.4522
+----------
+files: 1
+uncompressed (B): 959776816
+comp_size: 961182812, compressed ratio: 0.9985
+compression throughput (GB/s): 260.5009
+decompression throughput (GB/s): 206.2680
+----------
+files: 1
+uncompressed (B): 120000000
+comp_size: 120175852, compressed ratio: 0.9985
+compression throughput (GB/s): 243.5065
+decompression throughput (GB/s): 83.0050
+----------
+files: 1
+uncompressed (B): 307452800
+comp_size: 263379244, compressed ratio: 1.1673
+compression throughput (GB/s): 249.7894
+decompression throughput (GB/s): 114.8611
+----------
+files: 1
+uncompressed (B): 67108864
+comp_size: 67207168, compressed ratio: 0.9985
+compression throughput (GB/s): 233.3020
+decompression throughput (GB/s): 57.0266
+----------
+files: 1
+uncompressed (B): 536870912
+comp_size: 537657240, compressed ratio: 0.9985
+compression throughput (GB/s): 257.0827
+decompression throughput (GB/s): 175.5508
+----------
+files: 1
+uncompressed (B): 548458560
+comp_size: 26367028, compressed ratio: 20.8009
+compression throughput (GB/s): 287.9592
+decompression throughput (GB/s): 195.6276
+----------
+files: 1
+uncompressed (B): 671088640
+comp_size: 672071680, compressed ratio: 0.9985
+compression throughput (GB/s): 256.9976
+decompression throughput (GB/s): 188.2137
+----------
+files: 1
+uncompressed (B): 11625304
+comp_size: 11459260, compressed ratio: 1.0145
+compression throughput (GB/s): 147.7993
+decompression throughput (GB/s): 10.4595
+----------
+files: 1
+uncompressed (B): 100000000
+comp_size: 99795756, compressed ratio: 1.0020
+compression throughput (GB/s): 243.7598
+decompression throughput (GB/s): 76.2828
+----------
+files: 1
+uncompressed (B): 22749792
+comp_size: 22749548, compressed ratio: 1.0000
+compression throughput (GB/s): 191.9360
+decompression throughput (GB/s): 22.9481
+miranda3d diverge
+----------
+files: 1
+uncompressed (B): 266389432
+comp_size: 252184576, compressed ratio: 1.0563
+compression throughput (GB/s): 203.3085
+decompression throughput (GB/s): 120.6684
+----------
+files: 1
+uncompressed (B): 141840000
+comp_size: 142047836, compressed ratio: 0.9985
+compression throughput (GB/s): 246.6062
+decompression throughput (GB/s): 96.4593
+----------
+files: 1
+uncompressed (B): 159504744
+comp_size: 158059224, compressed ratio: 1.0091
+compression throughput (GB/s): 248.2580
+decompression throughput (GB/s): 100.5370
+----------
+files: 1
+uncompressed (B): 94281728
+comp_size: 72213468, compressed ratio: 1.3056
+compression throughput (GB/s): 233.6112
+decompression throughput (GB/s): 73.0730
+----------
+files: 1
+uncompressed (B): 164998080
+comp_size: 133651620, compressed ratio: 1.2345
+compression throughput (GB/s): 223.4148
+decompression throughput (GB/s): 107.9966
+----------
+files: 1
+uncompressed (B): 959776816
+comp_size: 961182812, compressed ratio: 0.9985
+compression throughput (GB/s): 260.2951
+decompression throughput (GB/s): 206.4086
+----------
+files: 1
+uncompressed (B): 120000000
+comp_size: 120175852, compressed ratio: 0.9985
+compression throughput (GB/s): 244.9220
+decompression throughput (GB/s): 80.1625
+----------
+files: 1
+uncompressed (B): 307452800
+comp_size: 263379244, compressed ratio: 1.1673
+compression throughput (GB/s): 249.4133
+decompression throughput (GB/s): 116.6687
+----------
+files: 1
+uncompressed (B): 67108864
+comp_size: 67207168, compressed ratio: 0.9985
+compression throughput (GB/s): 234.2925
+decompression throughput (GB/s): 58.8459
+----------
+files: 1
+uncompressed (B): 536870912
+comp_size: 537657240, compressed ratio: 0.9985
+compression throughput (GB/s): 257.3706
+decompression throughput (GB/s): 175.5637
+----------
+files: 1
+uncompressed (B): 548458560
+comp_size: 26367028, compressed ratio: 20.8009
+compression throughput (GB/s): 288.0705
+decompression throughput (GB/s): 196.4483
+----------
+files: 1
+uncompressed (B): 671088640
+comp_size: 672071680, compressed ratio: 0.9985
+compression throughput (GB/s): 256.6171
+decompression throughput (GB/s): 189.3027
+----------
+files: 1
+uncompressed (B): 11625304
+comp_size: 11459260, compressed ratio: 1.0145
+compression throughput (GB/s): 142.6908
+decompression throughput (GB/s): 11.5097
+----------
+files: 1
+uncompressed (B): 100000000
+comp_size: 99795756, compressed ratio: 1.0020
+compression throughput (GB/s): 241.8731
+decompression throughput (GB/s): 74.4899
+----------
+files: 1
+uncompressed (B): 22749792
+comp_size: 22749548, compressed ratio: 1.0000
+compression throughput (GB/s): 194.8824
+decompression throughput (GB/s): 24.0708
+miranda3d diverge
+----------
+files: 1
+uncompressed (B): 266389432
+comp_size: 252184576, compressed ratio: 1.0563
+compression throughput (GB/s): 202.9368
+decompression throughput (GB/s): 119.3279
+----------
+files: 1
+uncompressed (B): 141840000
+comp_size: 142047836, compressed ratio: 0.9985
+compression throughput (GB/s): 247.2114
+decompression throughput (GB/s): 92.9167
+----------
+files: 1
+uncompressed (B): 159504744
+comp_size: 158059224, compressed ratio: 1.0091
+compression throughput (GB/s): 247.3218
+decompression throughput (GB/s): 101.0404
+----------
+files: 1
+uncompressed (B): 94281728
+comp_size: 72213468, compressed ratio: 1.3056
+compression throughput (GB/s): 236.1010
+decompression throughput (GB/s): 67.2780
+----------
+files: 1
+uncompressed (B): 164998080
+comp_size: 133651620, compressed ratio: 1.2345
+compression throughput (GB/s): 223.4438
+decompression throughput (GB/s): 106.8176
+----------
+files: 1
+uncompressed (B): 959776816
+comp_size: 961182812, compressed ratio: 0.9985
+compression throughput (GB/s): 257.2256
+decompression throughput (GB/s): 205.6007
+----------
+files: 1
+uncompressed (B): 120000000
+comp_size: 120175852, compressed ratio: 0.9985
+compression throughput (GB/s): 245.2423
+decompression throughput (GB/s): 86.5491
+----------
+files: 1
+uncompressed (B): 307452800
+comp_size: 263379244, compressed ratio: 1.1673
+compression throughput (GB/s): 249.3615
+decompression throughput (GB/s): 114.7650
+----------
+files: 1
+uncompressed (B): 67108864
+comp_size: 67207168, compressed ratio: 0.9985
+compression throughput (GB/s): 232.5518
+decompression throughput (GB/s): 58.6190
+----------
+files: 1
+uncompressed (B): 536870912
+comp_size: 537657240, compressed ratio: 0.9985
+compression throughput (GB/s): 257.4693
+decompression throughput (GB/s): 176.4797
+----------
+files: 1
+uncompressed (B): 548458560
+comp_size: 26367028, compressed ratio: 20.8009
+compression throughput (GB/s): 333.3981
+decompression throughput (GB/s): 188.7093
+----------
+files: 1
+uncompressed (B): 671088640
+comp_size: 672071680, compressed ratio: 0.9985
+compression throughput (GB/s): 134.0427
+decompression throughput (GB/s): 70.4482
+----------
+files: 1
+uncompressed (B): 11625304
+comp_size: 11459260, compressed ratio: 1.0145
+compression throughput (GB/s): 189.2139
+decompression throughput (GB/s): 2.4364
+----------
+files: 1
+uncompressed (B): 100000000
+comp_size: 99795756, compressed ratio: 1.0020
+compression throughput (GB/s): 253.3647
+decompression throughput (GB/s): 20.0891
+----------
+files: 1
+uncompressed (B): 22749792
+comp_size: 22749548, compressed ratio: 1.0000
+compression throughput (GB/s): 222.1659
+decompression throughput (GB/s): 20.2354
+miranda3d diverge
+----------
+files: 1
+uncompressed (B): 266389432
+comp_size: 252184576, compressed ratio: 1.0563
+compression throughput (GB/s): 239.0772
+decompression throughput (GB/s): 46.4736
+----------
+files: 1
+uncompressed (B): 141840000
+comp_size: 142047836, compressed ratio: 0.9985
+compression throughput (GB/s): 254.0988
+decompression throughput (GB/s): 27.3746
+----------
+files: 1
+uncompressed (B): 159504744
+comp_size: 158059224, compressed ratio: 1.0091
+compression throughput (GB/s): 250.1266
+decompression throughput (GB/s): 30.3514
+----------
+files: 1
+uncompressed (B): 94281728
+comp_size: 72213468, compressed ratio: 1.3056
+compression throughput (GB/s): 260.6657
+decompression throughput (GB/s): 18.6736
+----------
+files: 1
+uncompressed (B): 164998080
+comp_size: 133651620, compressed ratio: 1.2345
+compression throughput (GB/s): 266.7731
+decompression throughput (GB/s): 31.5097
+----------
+files: 1
+uncompressed (B): 959776816
+comp_size: 961182812, compressed ratio: 0.9985
+compression throughput (GB/s): 158.6714
+decompression throughput (GB/s): 90.4595
+----------
+files: 1
+uncompressed (B): 120000000
+comp_size: 120175852, compressed ratio: 0.9985
+compression throughput (GB/s): 253.6698
+decompression throughput (GB/s): 21.3454
+----------
+files: 1
+uncompressed (B): 307452800
+comp_size: 263379244, compressed ratio: 1.1673
+compression throughput (GB/s): 262.4536
+decompression throughput (GB/s): 49.7963
+----------
+files: 1
+uncompressed (B): 67108864
+comp_size: 67207168, compressed ratio: 0.9985
+compression throughput (GB/s): 248.2424
+decompression throughput (GB/s): 13.6935
+----------
+files: 1
+uncompressed (B): 536870912
+comp_size: 537657240, compressed ratio: 0.9985
+compression throughput (GB/s): 261.0996
+decompression throughput (GB/s): 83.0087
+----------
+files: 1
+uncompressed (B): 548458560
+comp_size: 26367028, compressed ratio: 20.8009
+compression throughput (GB/s): 368.8733
+decompression throughput (GB/s): 228.0713
+----------
+files: 1
+uncompressed (B): 671088640
+comp_size: 672071680, compressed ratio: 0.9985
+compression throughput (GB/s): 134.9050
+decompression throughput (GB/s): 187.3528
+----------
+files: 1
+uncompressed (B): 11625304
+comp_size: 11459260, compressed ratio: 1.0145
+compression throughput (GB/s): 187.0704
+decompression throughput (GB/s): 11.9002
+----------
+files: 1
+uncompressed (B): 100000000
+comp_size: 99795756, compressed ratio: 1.0020
+compression throughput (GB/s): 246.7235
+decompression throughput (GB/s): 73.7602
+----------
+files: 1
+uncompressed (B): 22749792
+comp_size: 22749548, compressed ratio: 1.0000
+compression throughput (GB/s): 214.0714
+decompression throughput (GB/s): 23.0000
+miranda3d diverge
+----------
+files: 1
+uncompressed (B): 266389432
+comp_size: 252184576, compressed ratio: 1.0563
+compression throughput (GB/s): 239.5588
+decompression throughput (GB/s): 129.0306
+----------
+files: 1
+uncompressed (B): 141840000
+comp_size: 142047836, compressed ratio: 0.9985
+compression throughput (GB/s): 250.1693
+decompression throughput (GB/s): 97.3919
+----------
+files: 1
+uncompressed (B): 159504744
+comp_size: 158059224, compressed ratio: 1.0091
+compression throughput (GB/s): 253.7686
+decompression throughput (GB/s): 102.8840
+----------
+files: 1
+uncompressed (B): 94281728
+comp_size: 72213468, compressed ratio: 1.3056
+compression throughput (GB/s): 264.0294
+decompression throughput (GB/s): 73.2401
+----------
+files: 1
+uncompressed (B): 164998080
+comp_size: 133651620, compressed ratio: 1.2345
+compression throughput (GB/s): 260.7297
+decompression throughput (GB/s): 101.8527
+----------
+files: 1
+uncompressed (B): 959776816
+comp_size: 961182812, compressed ratio: 0.9985
+compression throughput (GB/s): 220.9659
+decompression throughput (GB/s): 206.4498
+----------
+files: 1
+uncompressed (B): 120000000
+comp_size: 120175852, compressed ratio: 0.9985
+compression throughput (GB/s): 250.3505
+decompression throughput (GB/s): 81.8813
+----------
+files: 1
+uncompressed (B): 307452800
+comp_size: 263379244, compressed ratio: 1.1673
+compression throughput (GB/s): 260.6310
+decompression throughput (GB/s): 120.9713
+----------
+files: 1
+uncompressed (B): 67108864
+comp_size: 67207168, compressed ratio: 0.9985
+compression throughput (GB/s): 245.1949
+decompression throughput (GB/s): 59.1513
+----------
+files: 1
+uncompressed (B): 536870912
+comp_size: 537657240, compressed ratio: 0.9985
+compression throughput (GB/s): 256.9724
+decompression throughput (GB/s): 174.1766

@@ -1,0 +1,4 @@
+Using /obs_spitzer.trace.bootstrap for decoding
+Using /obs_spitzer.trace.bootstrap for decoding
+Using ../Models/obs_spitzer.trace.bootstrap for decoding
+decompress-time= 7445.357879154966

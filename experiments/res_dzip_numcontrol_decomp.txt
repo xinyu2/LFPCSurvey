@@ -1,0 +1,2 @@
+Using /home/cc/code/Dzip-torch/Models/num_control.trace.bootstrap for decoding
+decompress-time= 9590.527646440954

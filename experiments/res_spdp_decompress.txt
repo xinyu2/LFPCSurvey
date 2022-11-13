@@ -1,0 +1,192 @@
+decomp-time: 1419.16 ms
+decomp-time: 3499.85 ms
+decomp-time: 103.58 ms
+decomp-time: 573.56 ms
+decomp-time: 154.54 ms
+decomp-time: 27447.88 ms
+decomp-time: 1312.69 ms
+decomp-time: 808.30 ms
+decomp-time: 977.21 ms
+decomp-time: 464.74 ms
+decomp-time: 891.88 ms
+decomp-time: 8551.17 ms
+decomp-time: 694.43 ms
+decomp-time: 1618.86 ms
+decomp-time: 447.45 ms
+decomp-time: 2611.52 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 06:25 /home/cc/data/astro_mhd_f64.spdpout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 06:25 /home/cc/data/astro_pt_f64.spdpout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 06:25 /home/cc/data/citytemp_f32.spdpout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 06:25 /home/cc/data/h3d_temp.spdpout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 06:25 /home/cc/data/hdr_night.spdpout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 06:25 /home/cc/data/miranda3d.spdpout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 06:25 /home/cc/data/msg_bt.spdpout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 06:25 /home/cc/data/num_brain.spdpout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 06:25 /home/cc/data/num_control.spdpout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 06:25 /home/cc/data/rsim_f32.spdpout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 06:25 /home/cc/data/spitzer_irac.spdpout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 06:26 /home/cc/data/tpch_lineitem_f32.spdpout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 06:26 /home/cc/data/tpch_order_f64.spdpout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 06:26 /home/cc/data/ts_gas.spdpout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 06:26 /home/cc/data/turbulence.spdpout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 06:26 /home/cc/data/wave_f32.spdpout
+decomp-time: 1355.35 ms
+decomp-time: 3298.94 ms
+decomp-time: 103.19 ms
+decomp-time: 533.38 ms
+decomp-time: 144.14 ms
+decomp-time: 26749.64 ms
+decomp-time: 1321.65 ms
+decomp-time: 736.44 ms
+decomp-time: 960.97 ms
+decomp-time: 417.50 ms
+decomp-time: 847.52 ms
+decomp-time: 8409.99 ms
+decomp-time: 780.62 ms
+decomp-time: 1553.73 ms
+decomp-time: 428.45 ms
+decomp-time: 2436.60 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 16:50 /home/cc/data/astro_mhd_f64.spdpout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 16:50 /home/cc/data/astro_pt_f64.spdpout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 16:50 /home/cc/data/citytemp_f32.spdpout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 16:50 /home/cc/data/h3d_temp.spdpout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 16:50 /home/cc/data/hdr_night.spdpout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 16:50 /home/cc/data/miranda3d.spdpout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 16:50 /home/cc/data/msg_bt.spdpout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 16:50 /home/cc/data/num_brain.spdpout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 16:50 /home/cc/data/num_control.spdpout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 16:50 /home/cc/data/rsim_f32.spdpout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 16:50 /home/cc/data/spitzer_irac.spdpout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 16:50 /home/cc/data/tpch_lineitem_f32.spdpout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 16:50 /home/cc/data/tpch_order_f64.spdpout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 16:50 /home/cc/data/ts_gas.spdpout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 16:50 /home/cc/data/turbulence.spdpout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 16:50 /home/cc/data/wave_f32.spdpout
+decomp-time: 1349.13 ms
+decomp-time: 3322.11 ms
+decomp-time: 103.78 ms
+decomp-time: 542.92 ms
+decomp-time: 141.57 ms
+decomp-time: 26072.76 ms
+decomp-time: 1246.57 ms
+decomp-time: 741.74 ms
+decomp-time: 921.73 ms
+decomp-time: 411.42 ms
+decomp-time: 902.52 ms
+decomp-time: 7998.59 ms
+decomp-time: 688.10 ms
+decomp-time: 1540.30 ms
+decomp-time: 423.87 ms
+decomp-time: 2383.54 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 17:57 /home/cc/data/astro_mhd_f64.spdpout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 17:57 /home/cc/data/astro_pt_f64.spdpout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 17:57 /home/cc/data/citytemp_f32.spdpout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 17:57 /home/cc/data/h3d_temp.spdpout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 17:57 /home/cc/data/hdr_night.spdpout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 17:57 /home/cc/data/miranda3d.spdpout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 17:57 /home/cc/data/msg_bt.spdpout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 17:57 /home/cc/data/num_brain.spdpout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 17:57 /home/cc/data/num_control.spdpout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 17:57 /home/cc/data/rsim_f32.spdpout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 17:57 /home/cc/data/spitzer_irac.spdpout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 17:58 /home/cc/data/tpch_lineitem_f32.spdpout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 17:58 /home/cc/data/tpch_order_f64.spdpout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 17:58 /home/cc/data/ts_gas.spdpout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 17:58 /home/cc/data/turbulence.spdpout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 17:58 /home/cc/data/wave_f32.spdpout
+decomp-time: 1351.82 ms
+decomp-time: 3345.46 ms
+decomp-time: 100.31 ms
+decomp-time: 561.44 ms
+decomp-time: 141.43 ms
+decomp-time: 26434.09 ms
+decomp-time: 1270.43 ms
+decomp-time: 744.78 ms
+decomp-time: 915.46 ms
+decomp-time: 470.99 ms
+decomp-time: 895.41 ms
+decomp-time: 8304.38 ms
+decomp-time: 685.96 ms
+decomp-time: 1574.94 ms
+decomp-time: 435.40 ms
+decomp-time: 2372.26 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  4 22:04 /home/cc/data/astro_mhd_f64.spdpout
+-rw-rw-r-- 1 cc cc  671088640 Oct  4 22:04 /home/cc/data/astro_pt_f64.spdpout
+-rw-rw-r-- 1 cc cc   11625304 Oct  4 22:04 /home/cc/data/citytemp_f32.spdpout
+-rw-rw-r-- 1 cc cc  100000000 Oct  4 22:04 /home/cc/data/h3d_temp.spdpout
+-rw-rw-r-- 1 cc cc   22749792 Oct  4 22:04 /home/cc/data/hdr_night.spdpout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  4 22:04 /home/cc/data/miranda3d.spdpout
+-rw-rw-r-- 1 cc cc  266389432 Oct  4 22:04 /home/cc/data/msg_bt.spdpout
+-rw-rw-r-- 1 cc cc  141840000 Oct  4 22:04 /home/cc/data/num_brain.spdpout
+-rw-rw-r-- 1 cc cc  159504744 Oct  4 22:04 /home/cc/data/num_control.spdpout
+-rw-rw-r-- 1 cc cc   94281728 Oct  4 22:04 /home/cc/data/rsim_f32.spdpout
+-rw-rw-r-- 1 cc cc  164998080 Oct  4 22:04 /home/cc/data/spitzer_irac.spdpout
+-rw-rw-r-- 1 cc cc  959776816 Oct  4 22:04 /home/cc/data/tpch_lineitem_f32.spdpout
+-rw-rw-r-- 1 cc cc  120000000 Oct  4 22:04 /home/cc/data/tpch_order_f64.spdpout
+-rw-rw-r-- 1 cc cc  307452800 Oct  4 22:04 /home/cc/data/ts_gas.spdpout
+-rw-rw-r-- 1 cc cc   67108864 Oct  4 22:04 /home/cc/data/turbulence.spdpout
+-rw-rw-r-- 1 cc cc  536870912 Oct  4 22:05 /home/cc/data/wave_f32.spdpout
+decomp-time: 1366.73 ms
+decomp-time: 3236.95 ms
+decomp-time: 85.17 ms
+decomp-time: 578.96 ms
+decomp-time: 144.02 ms
+decomp-time: 26735.19 ms
+decomp-time: 1295.34 ms
+decomp-time: 745.43 ms
+decomp-time: 961.93 ms
+decomp-time: 453.04 ms
+decomp-time: 897.42 ms
+decomp-time: 8510.21 ms
+decomp-time: 740.38 ms
+decomp-time: 1582.58 ms
+decomp-time: 451.15 ms
+decomp-time: 2453.31 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  5 06:20 /home/cc/data/astro_mhd_f64.spdpout
+-rw-rw-r-- 1 cc cc  671088640 Oct  5 06:20 /home/cc/data/astro_pt_f64.spdpout
+-rw-rw-r-- 1 cc cc   11625304 Oct  5 06:20 /home/cc/data/citytemp_f32.spdpout
+-rw-rw-r-- 1 cc cc  100000000 Oct  5 06:20 /home/cc/data/h3d_temp.spdpout
+-rw-rw-r-- 1 cc cc   22749792 Oct  5 06:20 /home/cc/data/hdr_night.spdpout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  5 06:20 /home/cc/data/miranda3d.spdpout
+-rw-rw-r-- 1 cc cc  266389432 Oct  5 06:20 /home/cc/data/msg_bt.spdpout
+-rw-rw-r-- 1 cc cc  141840000 Oct  5 06:20 /home/cc/data/num_brain.spdpout
+-rw-rw-r-- 1 cc cc  159504744 Oct  5 06:20 /home/cc/data/num_control.spdpout
+-rw-rw-r-- 1 cc cc   94281728 Oct  5 06:20 /home/cc/data/rsim_f32.spdpout
+-rw-rw-r-- 1 cc cc  164998080 Oct  5 06:20 /home/cc/data/spitzer_irac.spdpout
+-rw-rw-r-- 1 cc cc  959776816 Oct  5 06:21 /home/cc/data/tpch_lineitem_f32.spdpout
+-rw-rw-r-- 1 cc cc  120000000 Oct  5 06:21 /home/cc/data/tpch_order_f64.spdpout
+-rw-rw-r-- 1 cc cc  307452800 Oct  5 06:21 /home/cc/data/ts_gas.spdpout
+-rw-rw-r-- 1 cc cc   67108864 Oct  5 06:21 /home/cc/data/turbulence.spdpout
+-rw-rw-r-- 1 cc cc  536870912 Oct  5 06:21 /home/cc/data/wave_f32.spdpout
+decomp-time: 1406.62 ms
+decomp-time: 3118.67 ms
+decomp-time: 100.49 ms
+decomp-time: 544.68 ms
+decomp-time: 143.12 ms
+decomp-time: 25690.71 ms
+decomp-time: 1230.59 ms
+decomp-time: 728.67 ms
+decomp-time: 905.88 ms
+decomp-time: 418.56 ms
+decomp-time: 837.92 ms
+decomp-time: 7989.00 ms
+decomp-time: 688.47 ms
+decomp-time: 1593.85 ms
+decomp-time: 448.77 ms
+decomp-time: 2478.05 ms
+-rw-rw-r-- 1 cc cc  548458560 Oct  5 17:34 /home/cc/data/astro_mhd_f64.spdpout
+-rw-rw-r-- 1 cc cc  671088640 Oct  5 17:34 /home/cc/data/astro_pt_f64.spdpout
+-rw-rw-r-- 1 cc cc   11625304 Oct  5 17:34 /home/cc/data/citytemp_f32.spdpout
+-rw-rw-r-- 1 cc cc  100000000 Oct  5 17:34 /home/cc/data/h3d_temp.spdpout
+-rw-rw-r-- 1 cc cc   22749792 Oct  5 17:34 /home/cc/data/hdr_night.spdpout
+-rw-rw-r-- 1 cc cc 4294967296 Oct  5 17:35 /home/cc/data/miranda3d.spdpout
+-rw-rw-r-- 1 cc cc  266389432 Oct  5 17:35 /home/cc/data/msg_bt.spdpout
+-rw-rw-r-- 1 cc cc  141840000 Oct  5 17:35 /home/cc/data/num_brain.spdpout
+-rw-rw-r-- 1 cc cc  159504744 Oct  5 17:35 /home/cc/data/num_control.spdpout
+-rw-rw-r-- 1 cc cc   94281728 Oct  5 17:35 /home/cc/data/rsim_f32.spdpout
+-rw-rw-r-- 1 cc cc  164998080 Oct  5 17:35 /home/cc/data/spitzer_irac.spdpout
+-rw-rw-r-- 1 cc cc  959776816 Oct  5 17:35 /home/cc/data/tpch_lineitem_f32.spdpout
+-rw-rw-r-- 1 cc cc  120000000 Oct  5 17:35 /home/cc/data/tpch_order_f64.spdpout
+-rw-rw-r-- 1 cc cc  307452800 Oct  5 17:35 /home/cc/data/ts_gas.spdpout
+-rw-rw-r-- 1 cc cc   67108864 Oct  5 17:35 /home/cc/data/turbulence.spdpout
+-rw-rw-r-- 1 cc cc  536870912 Oct  5 17:35 /home/cc/data/wave_f32.spdpout
