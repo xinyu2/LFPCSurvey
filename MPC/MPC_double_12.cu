@@ -422,12 +422,12 @@ int main(int argc, char *argv[])
     cudaMemset(d_offs, -1, blocks * sizeof(int));
     MPCcompress<<<blocks, TPB>>>(insize, d_in, d_out, d_offs, dim);
     cudaThreadSynchronize();
-    
+    gettimeofday(&stop, NULL);
     CudaTest("compression failed");
 
     cudaMemcpy(output, d_out, sizeof(long), cudaMemcpyDeviceToHost);  CudaTest("memcpy failed");
     outsize = output[0] >> 32;
-    gettimeofday(&stop, NULL);
+    // gettimeofday(&stop, NULL);
     double ctime = stop.tv_sec + stop.tv_usec / 1000000.0 - start.tv_sec - start.tv_usec / 1000000.0;
     printf("comp-time: %.2f ms\t", 1000.0 * ctime);
     printf("comp-speed: %.3f GB/s\t", 0.000000001 * sizeof(long) * insize / ctime);

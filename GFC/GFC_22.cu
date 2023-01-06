@@ -365,8 +365,13 @@ static void Compress(int blocks, int warpsperblock, int dimensionality)
     fprintf(stderr, "copying of cut to device failed\n");
   CudaTest("cut copy to device failed");
 
+  struct timeval start, stop;
+  gettimeofday(&start, NULL);
   CompressionKernel<<<blocks, WARPSIZE*warpsperblock>>>();
   CudaTest("compression kernel launch failed");
+  gettimeofday(&stop, NULL);
+  double ctime = stop.tv_sec + stop.tv_usec / 1000000.0 - start.tv_sec - start.tv_usec / 1000000.0;
+  fprintf(stderr, "comp-time: %.2f ms\n", 1000.0 * ctime);
 
   // transfer offsets back to CPU
   if(cudaSuccess != cudaMemcpy(off, offl, sizeof(int) * blocks * warpsperblock, cudaMemcpyDeviceToHost))
@@ -392,6 +397,7 @@ static void Compress(int blocks, int warpsperblock, int dimensionality)
     num = fwrite(&off[i], 4, 1, stdout); // chunk's compressed size in bytes
     assert(1 == num);
   }
+  
   // output compressed data by chunk
   for(int i = 0; i < blocks * warpsperblock; i++) {
     int offset, start = 0;
@@ -515,8 +521,12 @@ static void Decompress(int blocks, int warpsperblock, int dimensionality, int do
     fprintf(stderr, "copying of cut to device failed\n");
   CudaTest("cut copy to device failed");
 
+  struct timeval start, stop;
+  gettimeofday(&start, NULL);
   DecompressionKernel<<<blocks, WARPSIZE*warpsperblock>>>();
   CudaTest("decompression kernel launch failed");
+  double dtime = stop.tv_sec + stop.tv_usec / 1000000.0 - start.tv_sec - start.tv_usec / 1000000.0;
+  fprintf(stderr, "decomp-time: %.2f ms\n", 1000.0 * dtime);
 
   // transfer result back to CPU
   if (cudaSuccess != cudaMemcpy(fbuf, fbufl, sizeof(ull) * doubles, cudaMemcpyDeviceToHost))
@@ -655,8 +665,8 @@ int main(int argc, char *argv[])
     Compress(blocks, warpsperblock, dimensionality);
     assert(0 == fread(&dummy, 1, 1, stdin));
     gettimeofday(&stop, NULL);
-    double ctime = stop.tv_sec + stop.tv_usec / 1000000.0 - start.tv_sec - start.tv_usec / 1000000.0;
-    fprintf(stderr, "comp-time: %.2f ms\n", 1000.0 * ctime);
+    // double ctime = stop.tv_sec + stop.tv_usec / 1000000.0 - start.tv_sec - start.tv_usec / 1000000.0;
+    // fprintf(stderr, "comp-time: %.2f ms\n", 1000.0 * ctime);
   }
   else if(1 == argc) { /* decompress */
     gettimeofday(&start, NULL);
@@ -675,8 +685,8 @@ int main(int argc, char *argv[])
 
     Decompress(blocks, warpsperblock, dimensionality, doubles);
     gettimeofday(&stop, NULL);
-    double dtime = stop.tv_sec + stop.tv_usec / 1000000.0 - start.tv_sec - start.tv_usec / 1000000.0;
-    fprintf(stderr, "decomp-time: %.2f ms\n", 1000.0 * dtime);
+    // double dtime = stop.tv_sec + stop.tv_usec / 1000000.0 - start.tv_sec - start.tv_usec / 1000000.0;
+    // fprintf(stderr, "decomp-time: %.2f ms\n", 1000.0 * dtime);
   }
   else {
     fprintf(stderr, "usage:\n");
